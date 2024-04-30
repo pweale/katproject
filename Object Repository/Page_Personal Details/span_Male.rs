@@ -6,12 +6,12 @@
    <elementGuidId>071b63f7-5d71-45ca-8ccf-c2db8199a81b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#select-options-5b99d964-a81a-5e04-fbb6-28a0fb2e4427 > li:nth-of-type(3) > span</value>
+         <key>XPATH</key>
+         <value>//ul[@id='select-options-2d46365a-c3b7-655c-35c7-523536fe5b03']/li[3]/span</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//ul[@id='select-options-5b99d964-a81a-5e04-fbb6-28a0fb2e4427']/li[3]/span</value>
+         <key>CSS</key>
+         <value>#select-options-2d46365a-c3b7-655c-35c7-523536fe5b03 > li:nth-of-type(3) > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>15f75818-ce71-45dd-9f9d-333f35cc4f69</webElementGuid>
+      <webElementGuid>7076dae7-062a-4a08-9a32-c1527104ee50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,23 +37,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Male</value>
-      <webElementGuid>509385a7-57d1-4e16-863e-6e7868b90b31</webElementGuid>
+      <webElementGuid>5017382e-cb29-47d9-8912-ad0240f7a168</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;select-options-5b99d964-a81a-5e04-fbb6-28a0fb2e4427&quot;)/li[3]/span[1]</value>
-      <webElementGuid>5542a4f3-560a-420e-82df-2773a8001f1f</webElementGuid>
+      <value>id(&quot;select-options-2d46365a-c3b7-655c-35c7-523536fe5b03&quot;)/li[3]/span[1]</value>
+      <webElementGuid>674f45d3-3a1a-496c-81a0-0e39c8adbe50</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='select-options-5b99d964-a81a-5e04-fbb6-28a0fb2e4427']/li[3]/span</value>
-      <webElementGuid>fe2c486a-9f28-44c5-8eae-717849285c4b</webElementGuid>
+      <value>//ul[@id='select-options-2d46365a-c3b7-655c-35c7-523536fe5b03']/li[3]/span</value>
+      <webElementGuid>2ff1f49a-337f-4669-9cab-4f2d8cf2f700</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Female'])[1]/following::span[1]</value>
-      <webElementGuid>2eb70195-a6fa-4881-bdda-c45c914b5552</webElementGuid>
+      <webElementGuid>b307180a-6f8e-4fa2-ac82-eadb29918278</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[3]/following::span[2]</value>
-      <webElementGuid>d3382426-d826-4f26-8f92-f0fbb15852db</webElementGuid>
+      <webElementGuid>ba6171cf-74cd-4a1e-9645-855c1cc52658</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Non-Binary'])[1]/preceding::span[1]</value>
-      <webElementGuid>94658c59-521d-46d3-981a-b652a8ed4f89</webElementGuid>
+      <webElementGuid>deaf10df-b6d0-48d4-ae74-2d37d3eaaf17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Gender'])[1]/preceding::span[2]</value>
-      <webElementGuid>41562acf-f825-4f40-b668-7dd1e67b321d</webElementGuid>
+      <webElementGuid>6991d4dd-fcd6-4c2d-9830-f029155b08dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Male']/parent::*</value>
-      <webElementGuid>723c9ca7-9d42-45ca-a3de-87bacf503168</webElementGuid>
+      <webElementGuid>5af176bc-ffde-4f4f-b268-b7e7a17980dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//sf-decorator[3]/div/div/ul/li[3]/span</value>
-      <webElementGuid>70351925-8f86-4bfa-9112-4b328f1b58b2</webElementGuid>
+      <webElementGuid>9e37bc33-78e8-44e4-ae7a-af3fa88f55ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Male' or . = 'Male')]</value>
-      <webElementGuid>ebe26cb5-a032-4962-8519-a0fec149a4f2</webElementGuid>
+      <webElementGuid>873ff983-2d25-4605-96a9-de9fe0b42c1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select-options-5b99d964-a81a-5e04-fbb6-28a0fb2e4427']/li[3]/span</value>
+      <webElementGuid>fe2c486a-9f28-44c5-8eae-717849285c4b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

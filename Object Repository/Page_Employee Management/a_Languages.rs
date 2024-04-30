@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b74e5bfa-1738-4738-9740-cb2333c81ce2</webElementGuid>
+      <webElementGuid>c86e0e9f-5665-4b6e-b8f8-e9114a0a6bf5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>!menu.children &amp;&amp; !!menu.uiSref &amp;&amp; maxLevels &lt;= 0</value>
-      <webElementGuid>09b548e0-72ee-4f0e-928d-84ec64071df0</webElementGuid>
+      <webElementGuid>9f50a8fa-4fdd-4093-b45e-f6d7460d2866</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sub-menu-item-link truncate</value>
-      <webElementGuid>c7e569ee-3b57-46dd-b2c2-e04067890e3a</webElementGuid>
+      <webElementGuid>9ccd8115-fdc7-4933-b8ac-f849ce5515fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>ui-sref</name>
       <type>Main</type>
       <value>admin.languages</value>
-      <webElementGuid>8c068dd6-59c7-4a3e-8fc8-b38b2289ef35</webElementGuid>
+      <webElementGuid>2bff8d76-5082-419f-8e4c-7bb55eab1726</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>ui-sref-active</name>
       <type>Main</type>
       <value>active</value>
-      <webElementGuid>37845f4a-41ee-4a41-bc94-a57884173758</webElementGuid>
+      <webElementGuid>62e7414d-d47e-43d1-abe8-de02d097ac93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>ng-attr-target</name>
       <type>Main</type>
       <value>{{menu.target}}</value>
-      <webElementGuid>4e9cdf8c-87d6-4a1f-9895-25b46ead07ca</webElementGuid>
+      <webElementGuid>ecdb1447-af5d-41a4-af2a-eb8abb7bbc54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>data-automation-id</name>
       <type>Main</type>
       <value>more_menu_child_menu_admin_viewLanguages</value>
-      <webElementGuid>88a15c9d-0cbc-46d8-bd0e-c403082bf9eb</webElementGuid>
+      <webElementGuid>9fa899ca-0704-4404-9800-e491bf99e049</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>308110aa-15a5-40c8-8e9b-31b52af7bcc3</webElementGuid>
+      <webElementGuid>5c7dbddc-07ee-4ad0-9161-3423e1cf360d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#/admin/languages</value>
-      <webElementGuid>eac5b776-e046-47f1-9636-60158eef4cf7</webElementGuid>
+      <webElementGuid>0c21c465-5d06-4836-8dda-e68fc9011cf4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Languages</value>
-      <webElementGuid>20742205-7f22-4720-8014-a9c4a2a3cb63</webElementGuid>
+      <webElementGuid>a024dc5d-ab4d-4b5c-aa2c-e05b0d020320</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;top-ribbon-menu&quot;)/div[@class=&quot;top-ribbon-menu-more-items&quot;]/top-level-menu-item[2]/div[@class=&quot;top-level-menu-item-container&quot;]/sub-menu-container[@class=&quot;level-1-sub-menu opened&quot;]/div[@class=&quot;sub-menu-container&quot;]/div[@class=&quot;sub-menu-item&quot;]/sub-menu-container[@class=&quot;direction-left opened&quot;]/div[@class=&quot;sub-menu-container&quot;]/div[@class=&quot;sub-menu-item&quot;]/a[@class=&quot;sub-menu-item-link truncate&quot;]</value>
-      <webElementGuid>43b07496-c62b-48a7-a5be-57084d043b12</webElementGuid>
+      <webElementGuid>d24dd962-d431-4083-b435-9362e4ab066c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='top-ribbon-menu']/div[3]/top-level-menu-item[2]/div/sub-menu-container/div/div[5]/sub-menu-container/div/div[4]/a</value>
-      <webElementGuid>eb2df8cb-4c4f-44ee-92df-c223109285cc</webElementGuid>
+      <webElementGuid>3f7c4eee-84bd-45ca-a644-15ccc7ddf0a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Languages')])[2]</value>
-      <webElementGuid>de494f17-178d-4749-ba90-6337f03b5fa5</webElementGuid>
+      <webElementGuid>e06fea28-8fb2-4bbc-aabc-ec0218f295a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Licenses'])[2]/following::a[1]</value>
-      <webElementGuid>3c472892-c404-438c-b4b2-97b328ac5ca9</webElementGuid>
+      <webElementGuid>f08f065d-4b28-482b-94e0-272272ab9c8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Education'])[2]/following::a[2]</value>
-      <webElementGuid>dcc7ecee-f490-4232-91e0-b85892516db4</webElementGuid>
+      <webElementGuid>bf2e774f-9bd3-4ff5-9485-605747d542d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Memberships'])[2]/preceding::a[1]</value>
-      <webElementGuid>a7323944-3c1e-4b11-97d5-563656e1c11a</webElementGuid>
+      <webElementGuid>e56ba729-ae22-40ec-84d2-df95b2097b7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#/admin/languages')])[2]</value>
-      <webElementGuid>9e7b8677-55a2-4598-b4bb-4a30d9c8416b</webElementGuid>
+      <webElementGuid>3e4f3714-a7dc-4237-a21f-903b150fe8af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/sub-menu-container/div/div[4]/a</value>
-      <webElementGuid>61b2238f-a3e6-4709-b0c1-94ff3af8cec3</webElementGuid>
+      <webElementGuid>35a07399-6eba-4a2b-8acb-0d577c10c1eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#/admin/languages' and (text() = 'Languages' or . = 'Languages')]</value>
-      <webElementGuid>fe2184d3-c9cd-48f8-9fd7-fcea9ebd3002</webElementGuid>
+      <webElementGuid>11dd8dcb-7c92-41ac-ba05-955db4f4ae44</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

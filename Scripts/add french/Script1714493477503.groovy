@@ -27,17 +27,19 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_OrangeHRM/input_Lo
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_Employee List'))
+WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_More  more_vert'))
 
-WebUI.click(findTestObject('Object Repository/Page_Employee Management/img_Supervisor_circle list-photo'))
+WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_oxd_menu_left Qualifications'))
 
-WebUI.click(findTestObject('Object Repository/Page_Frank Aaron/i_more_vert'))
+WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_More  more_vert'))
 
-WebUI.click(findTestObject('Object Repository/Page_Frank Aaron/a_Emergency Contacts'))
+WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_Languages'))
 
-WebUI.click(findTestObject('Object Repository/Page_Frank Aaron/a_Add'))
+WebUI.click(findTestObject('Object Repository/Page_Qualifications/i_add'))
 
-WebUI.uploadFile(findTestObject('input_(Accepts up to 5MB)_filename'), 'C:\\Users\\PaulWeale\\Katalon Studio\\Mock 9 Katalon\\sample katalon.xlsx')
+WebUI.setText(findTestObject('Object Repository/Page_Qualifications/input_Add License_name'), 'French')
 
-WebUI.click(findTestObject('Object Repository/Page_Frank Aaron/a_button_Save'))
+WebUI.click(findTestObject('Object Repository/Page_Qualifications/a_Save'))
+
+WebUI.click(findTestObject('Object Repository/Page_Qualifications/a_Cancel'))
 

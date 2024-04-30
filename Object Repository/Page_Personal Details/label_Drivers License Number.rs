@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Drivers License Number</name>
+   <tag></tag>
+   <elementGuidId>6c0d7e48-3b75-4ea6-b87f-44b80db8acdf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='pimPersonalDetailsForm']/materializecss-decorator[5]/div/sf-decorator[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>materializecss-decorator:nth-of-type(5) > div.schema-form-section.row > sf-decorator:nth-of-type(2) > div.input-field.col.s12.m12.l4 > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Driver's License Number&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8beafee2-41d2-4742-8042-7566d212c932</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>licenseNo</value>
+      <webElementGuid>41216961-1315-4ac3-b650-3358444dd812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>!form.hideLabel</value>
+      <webElementGuid>18d26fd9-67d6-45a4-85b1-6a6a78324ee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Driver's License Number</value>
+      <webElementGuid>2310c72f-d93f-45c6-b800-103537cd067c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pimPersonalDetailsForm&quot;)/materializecss-decorator[5]/div[@class=&quot;schema-form-section row&quot;]/sf-decorator[2]/div[@class=&quot;input-field col s12 m12 l4&quot;]/label[1]</value>
+      <webElementGuid>12a8107b-51c9-407b-967e-266d7b1d0db8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='pimPersonalDetailsForm']/materializecss-decorator[5]/div/sf-decorator[2]/div/label</value>
+      <webElementGuid>6d34a2ca-5385-4221-90a2-6ecb124ddded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nationality'])[1]/following::label[1]</value>
+      <webElementGuid>1b0478e9-9438-4e9d-bef0-5c7ac8b13169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zimbabwean'])[1]/following::label[2]</value>
+      <webElementGuid>8fd05bc7-386c-4e6a-8879-83c4bddedd3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='License Expiry Date'])[1]/preceding::label[1]</value>
+      <webElementGuid>d72226ed-b9bd-4ccb-8b7e-5947b99d29a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tuesday'])[2]/preceding::label[2]</value>
+      <webElementGuid>1c324bea-7633-4e0f-96d0-ff4ae75f74a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//materializecss-decorator[5]/div/sf-decorator[2]/div/label</value>
+      <webElementGuid>d44f1521-0ae3-424e-8161-f929665af1e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = concat(&quot;Driver&quot; , &quot;'&quot; , &quot;s License Number&quot;) or . = concat(&quot;Driver&quot; , &quot;'&quot; , &quot;s License Number&quot;))]</value>
+      <webElementGuid>8430047f-3a5d-4f0b-97ed-e39cd0d394ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

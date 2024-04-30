@@ -6,12 +6,12 @@
    <elementGuidId>38d058b7-2a07-4cd8-9357-80c6ff4ca6c3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#location</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='location']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#location</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>a8265b18-056f-4992-a667-8416c03ac998</webElementGuid>
+      <webElementGuid>c411adb2-4a73-4624-b8ab-58ac0742ae3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>!form.translate</value>
-      <webElementGuid>333a6eda-5af5-4215-860e-b81036436955</webElementGuid>
+      <webElementGuid>f860ea7e-b5f7-45b1-aab7-0154eb8161b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>location</value>
-      <webElementGuid>79514b4e-76d4-46d4-85a9-23769928e76b</webElementGuid>
+      <webElementGuid>7ac3990a-c288-4baa-b8aa-a95ccd0f2865</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>model['location']</value>
-      <webElementGuid>63881826-da28-490e-8279-cd472f811a0f</webElementGuid>
+      <webElementGuid>2ffcdeae-7b88-4085-aa2a-ae58c7bb5d0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>ng-model-options</name>
       <type>Main</type>
       <value>form.ngModelOptions</value>
-      <webElementGuid>aa40b5d9-1cdc-4b48-85c3-8fb5204d65ec</webElementGuid>
+      <webElementGuid>242f53d1-f0dc-499a-8e51-5111aa1dd6e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>ng-disabled</name>
       <type>Main</type>
       <value>form.readonly</value>
-      <webElementGuid>fa4f86a9-d2b7-46bf-aa27-e106ee819791</webElementGuid>
+      <webElementGuid>1e21fca0-efb7-44ae-aa30-dab2a1961bc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>sf-changed</name>
       <type>Main</type>
       <value>form</value>
-      <webElementGuid>e1e0b346-38b0-437e-876f-8921d34b59a6</webElementGuid>
+      <webElementGuid>1db2a822-01ad-4f47-8ff2-294a7da0c16a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select-dropdown</value>
-      <webElementGuid>6da5c429-e988-4b1a-991f-4ce64f2f5dbb</webElementGuid>
+      <webElementGuid>ac09d804-145f-4455-9bab-55a65f8e5867</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>ng-class</name>
       <type>Main</type>
       <value>{'loader-is-showing' : form.showLoader}</value>
-      <webElementGuid>a74460c7-05da-477d-ab38-66cf4691c40d</webElementGuid>
+      <webElementGuid>0f4c78a1-3e1e-45e0-95a4-2f9cc445e1ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>schema-validate</name>
       <type>Main</type>
       <value>form</value>
-      <webElementGuid>09a9889c-3396-415a-a089-3ac725368816</webElementGuid>
+      <webElementGuid>c8d09cfd-b37f-4817-a710-86a040f0c513</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>ng-options</name>
       <type>Main</type>
       <value>item.value as item.name group by item.group for item in form.titleMap</value>
-      <webElementGuid>0ae51bd6-2b63-4e5f-af0c-2724e0026ecb</webElementGuid>
+      <webElementGuid>61fadfb2-e6ba-4bc8-bc10-d509f3b29f57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>ohrm-make-element-non-pristine</name>
       <type>Main</type>
       <value>form.removePristine</value>
-      <webElementGuid>32e3abb0-9d22-4f87-bcd9-4bc435fa1b8e</webElementGuid>
+      <webElementGuid>ecce1632-05ba-4330-993d-dd126677c65c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -125,7 +125,7 @@
       <name>name</name>
       <type>Main</type>
       <value>location</value>
-      <webElementGuid>1b9cbe36-bfb3-4cdf-a7c6-49449cc0d46a</webElementGuid>
+      <webElementGuid>f2610fc2-cf67-4161-91ad-86f6a9f4240b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -133,7 +133,7 @@
       <name>text</name>
       <type>Main</type>
       <value>-- Select --AustraliaAustralia officeCanadaCanadian Development CenterFranceFrance OfficeGermanyGerman OfficeIndiaIndia OfficeJamaicaJamaica training centerMexicoMexico OfficePhilippinesPhilippine call centerSingaporeSingapore Regional HQSouth AfricaSouth Africa Satellite OfficeUnited KingdomUK OfficeUnited StatesUS Office</value>
-      <webElementGuid>afc0c638-ffc9-4885-a954-29f94bacf365</webElementGuid>
+      <webElementGuid>0142a56d-0be6-4680-ba6f-d21323101fd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;location&quot;)</value>
-      <webElementGuid>25eb1ac1-4b1c-4f50-97f8-de78c35e67c7</webElementGuid>
+      <webElementGuid>3fc93060-4514-4148-b728-139afc545247</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='location']</value>
-      <webElementGuid>faf09ccd-b2fa-4808-b979-0d705becd963</webElementGuid>
+      <webElementGuid>d04b5f38-d599-4264-bdb9-3b1f60609bd8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modal-holder']/div/div/div/div[2]/form/oxd-decorator/div/div[2]/div/div[3]/div/div[3]/div/div/select</value>
-      <webElementGuid>b7d7d1b5-bb54-4415-8ce8-089bc6549e50</webElementGuid>
+      <webElementGuid>f8e67e7b-590a-4d72-b842-5195e1769731</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::select[1]</value>
-      <webElementGuid>a85f9ec8-d7b4-42cf-bebc-c4e3b443b42d</webElementGuid>
+      <webElementGuid>3486ab82-c24c-42d7-9ee2-f53128b5be3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,7 +173,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[2]/preceding::select[1]</value>
-      <webElementGuid>84c006ce-2465-4a9c-b3d9-14d2d318e596</webElementGuid>
+      <webElementGuid>25857e76-8605-45d2-8618-3364b18f930d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -181,7 +181,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[3]/preceding::select[1]</value>
-      <webElementGuid>b2d0873f-475b-4582-a87e-90246645bb43</webElementGuid>
+      <webElementGuid>7c330695-d445-4e98-b23e-bdd518b99e0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -189,7 +189,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/select</value>
-      <webElementGuid>4f9ab23e-24f7-4d05-8885-dd2f523e0497</webElementGuid>
+      <webElementGuid>f969d981-db06-4a9e-a2b4-13094e867868</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -197,6 +197,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'location' and @name = 'location' and (text() = '-- Select --AustraliaAustralia officeCanadaCanadian Development CenterFranceFrance OfficeGermanyGerman OfficeIndiaIndia OfficeJamaicaJamaica training centerMexicoMexico OfficePhilippinesPhilippine call centerSingaporeSingapore Regional HQSouth AfricaSouth Africa Satellite OfficeUnited KingdomUK OfficeUnited StatesUS Office' or . = '-- Select --AustraliaAustralia officeCanadaCanadian Development CenterFranceFrance OfficeGermanyGerman OfficeIndiaIndia OfficeJamaicaJamaica training centerMexicoMexico OfficePhilippinesPhilippine call centerSingaporeSingapore Regional HQSouth AfricaSouth Africa Satellite OfficeUnited KingdomUK OfficeUnited StatesUS Office')]</value>
-      <webElementGuid>657f889c-8097-4169-88b5-a317efef7219</webElementGuid>
+      <webElementGuid>aff42e56-ef39-4a4a-8878-e199960a3f20</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

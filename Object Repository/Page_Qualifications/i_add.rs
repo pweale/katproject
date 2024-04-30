@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>b792243a-b0fe-4352-8636-92973a05e4ac</webElementGuid>
+      <webElementGuid>9991a19e-8692-44b7-9071-3937eff9ec81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons</value>
-      <webElementGuid>87c2ef3f-fc44-45ea-b77a-e7bfc074a424</webElementGuid>
+      <webElementGuid>e48b440d-c6ca-4152-9014-6812131cc573</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>add</value>
-      <webElementGuid>0873cb78-18c4-4b78-a795-9ad0167876a4</webElementGuid>
+      <webElementGuid>7a130656-ec71-4644-9df8-14f32936570c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;languagesDiv&quot;)/div[@class=&quot;fixed-action-btn floating-add-btn tooltipped active&quot;]/a[@class=&quot;btn-floating btn-large waves-effect waves-light&quot;]/i[@class=&quot;material-icons&quot;]</value>
-      <webElementGuid>204acfe1-b80a-4eca-9dd8-902fee21d2a2</webElementGuid>
+      <webElementGuid>bf3a3a37-cd7a-4203-ab47-cec44059ba15</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='languagesDiv']/div/a/i</value>
-      <webElementGuid>c3674206-606c-44f6-8c93-7ef89875c6b6</webElementGuid>
+      <webElementGuid>79c36f6e-3af5-4854-b5fc-3437f859eb2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='▼'])[1]/following::i[1]</value>
-      <webElementGuid>e8280f3f-cbc9-4866-83f6-17462509a2f8</webElementGuid>
+      <webElementGuid>99e8801e-2c93-4dfb-8422-8276b7595aa9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rows per page'])[1]/following::i[1]</value>
-      <webElementGuid>be088d80-9614-4a7b-894e-89ed4a71ff18</webElementGuid>
+      <webElementGuid>03e5ea93-fa26-42ac-bd4b-63854dcc0555</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Language'])[1]/preceding::i[1]</value>
-      <webElementGuid>0aeadb5e-51f2-42d2-b411-88e4e1cde56e</webElementGuid>
+      <webElementGuid>6aad54ef-e2b1-4220-be5f-36088c04b98d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='add']/parent::*</value>
-      <webElementGuid>173c4ac4-2d10-4cd1-b0dc-8af5f1e6a293</webElementGuid>
+      <webElementGuid>ae08a31a-444a-42ac-8551-105978dac4b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ui-view/div/div/div/a/i</value>
-      <webElementGuid>78de268c-9291-40cd-8c05-d2c41f1c0c23</webElementGuid>
+      <webElementGuid>4e2f0100-84ec-46a2-8900-a20020d51444</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[(text() = 'add' or . = 'add')]</value>
-      <webElementGuid>5849d16f-4fce-4b8d-80b2-da3ab52b6baa</webElementGuid>
+      <webElementGuid>e4e4c783-2659-44b7-a8cc-e3c6713f4f19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

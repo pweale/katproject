@@ -6,12 +6,12 @@
    <elementGuidId>28dd1c1b-31b6-4a8d-b3fa-199304001d26</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#employment_status_id</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='employment_status_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#employment_status_id</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>ae86b5e7-e264-4815-babf-cde04a157024</webElementGuid>
+      <webElementGuid>98d236fa-8a95-4e49-aea4-3e01722dd16b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>!form.translate</value>
-      <webElementGuid>1923d399-be81-4a6d-8dad-a06a005244f7</webElementGuid>
+      <webElementGuid>3ead6aea-94be-4db2-ae02-f1d015962427</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>employment_status_id</value>
-      <webElementGuid>cb202ff4-dd3c-49fa-b4aa-73c6a9cd47ed</webElementGuid>
+      <webElementGuid>082c04e5-835e-4061-9463-0e35a12668ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>model['employment_status_id']</value>
-      <webElementGuid>c3714fd1-8994-47cb-9392-498e93b36bec</webElementGuid>
+      <webElementGuid>0f43c1e6-9255-4bb0-a140-dc1abec088c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>ng-model-options</name>
       <type>Main</type>
       <value>form.ngModelOptions</value>
-      <webElementGuid>e10f7f08-3dbe-4e1e-90c3-aebc1a5629b3</webElementGuid>
+      <webElementGuid>3bbe4aff-efa3-4214-87e1-f98d515b153a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>ng-disabled</name>
       <type>Main</type>
       <value>form.readonly</value>
-      <webElementGuid>8723bb5b-ecb2-4ba9-9eb4-254f70840701</webElementGuid>
+      <webElementGuid>75e788b9-d776-4ae2-a1ed-71f82cae6a79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>sf-changed</name>
       <type>Main</type>
       <value>form</value>
-      <webElementGuid>563cb000-2be0-4439-b962-20bdc76594d0</webElementGuid>
+      <webElementGuid>d02849c1-1e69-4138-a596-4175eab71a5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select-dropdown</value>
-      <webElementGuid>17161f80-0df5-4061-9b5f-6eec017a783e</webElementGuid>
+      <webElementGuid>f58181ec-0a9c-4ee1-b729-a3fcbbdf36a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>ng-class</name>
       <type>Main</type>
       <value>{'loader-is-showing' : form.showLoader}</value>
-      <webElementGuid>41869b96-72ee-4e47-bc76-22d5017d5d97</webElementGuid>
+      <webElementGuid>d56be631-1d79-4784-bb17-6cf9c710a2d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>schema-validate</name>
       <type>Main</type>
       <value>form</value>
-      <webElementGuid>d52558b4-3e25-451a-8b26-1592cd51fc3a</webElementGuid>
+      <webElementGuid>89b7e180-6cfc-4aea-974d-5912b2916f9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>ng-options</name>
       <type>Main</type>
       <value>item.value as item.name group by item.group for item in form.titleMap</value>
-      <webElementGuid>a31c6546-bdc7-4cad-9758-279b0f4f41bf</webElementGuid>
+      <webElementGuid>08ae67c2-56bb-431e-b810-8b30291fefbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>ohrm-make-element-non-pristine</name>
       <type>Main</type>
       <value>form.removePristine</value>
-      <webElementGuid>a73045e0-391a-48df-8888-2fe6c4a6ba03</webElementGuid>
+      <webElementGuid>4266aee1-dcec-4736-8f5f-5dc2976f78ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -125,7 +125,7 @@
       <name>name</name>
       <type>Main</type>
       <value>employment_status_id</value>
-      <webElementGuid>8ce3feb9-4cb5-4e1c-8d40-cc5ee4415e0e</webElementGuid>
+      <webElementGuid>3bbda585-9186-43d1-8e45-e31ad9f88a31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -133,7 +133,7 @@
       <name>text</name>
       <type>Main</type>
       <value>-- Select --FreelanceFull-Time ContractFull-Time InternshipFull-Time PermanentFull-Time ProbationPart-Time ContractPart-Time InternshipPart-Time PermanentPart-Time Regular</value>
-      <webElementGuid>f3838db7-7d8e-4ffd-9a1a-2160c1ec9cac</webElementGuid>
+      <webElementGuid>9b4a0e03-4782-4bfd-947e-bc4c9e367c6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;employment_status_id&quot;)</value>
-      <webElementGuid>64a90c1d-5615-4017-8619-9f7cd4b8a189</webElementGuid>
+      <webElementGuid>5c17a37d-a824-4d91-a7ca-6337126ab5dc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='employment_status_id']</value>
-      <webElementGuid>eca34705-aa81-48b7-b0eb-582d2047b525</webElementGuid>
+      <webElementGuid>275bce12-f658-427a-8ec8-9d2e9220d306</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='employement_details_tab']/form/div/oxd-decorator/div/div[4]/div/div/select</value>
-      <webElementGuid>e51f0074-c455-4d05-bffb-255b8bdac8c4</webElementGuid>
+      <webElementGuid>a417e997-ca44-4dbc-bc84-b931ca77f13a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Employment Status'])[1]/following::select[1]</value>
-      <webElementGuid>266c87f2-18d2-4150-bbc5-524d7e2854b3</webElementGuid>
+      <webElementGuid>569ae4b6-e304-428d-954a-c75365940dfc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,7 +173,39 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='arrow_drop_down'])[2]/following::select[1]</value>
-      <webElementGuid>a78da998-0667-4238-973e-38e41176377a</webElementGuid>
+      <webElementGuid>b6138fc3-add9-45d2-973d-c8b6a4413cf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[5]/preceding::select[1]</value>
+      <webElementGuid>8c9da582-095c-4c6a-bd06-20141b0b624f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[6]/preceding::select[1]</value>
+      <webElementGuid>fb726969-9692-45e5-acc0-0add2562129b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/select</value>
+      <webElementGuid>5f4be607-e836-45f8-8a18-bf502050a284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'employment_status_id' and @name = 'employment_status_id' and (text() = '-- Select --FreelanceFull-Time ContractFull-Time InternshipFull-Time PermanentFull-Time ProbationPart-Time ContractPart-Time InternshipPart-Time PermanentPart-Time Regular' or . = '-- Select --FreelanceFull-Time ContractFull-Time InternshipFull-Time PermanentFull-Time ProbationPart-Time ContractPart-Time InternshipPart-Time PermanentPart-Time Regular')]</value>
+      <webElementGuid>ae9c227e-e41c-4494-a2f0-c1f89f3008c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,29 +214,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[4]/preceding::select[1]</value>
       <webElementGuid>6fca7080-808f-4117-b308-cafe4343d25b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[5]/preceding::select[1]</value>
-      <webElementGuid>deb09c82-0e9c-4cda-8e47-13c42b5135fa</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[4]/div/div/select</value>
-      <webElementGuid>b06fb2e7-25fc-4f8d-9ac6-13c68bb98636</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//select[@id = 'employment_status_id' and @name = 'employment_status_id' and (text() = '-- Select --FreelanceFull-Time ContractFull-Time InternshipFull-Time PermanentFull-Time ProbationPart-Time ContractPart-Time InternshipPart-Time PermanentPart-Time Regular' or . = '-- Select --FreelanceFull-Time ContractFull-Time InternshipFull-Time PermanentFull-Time ProbationPart-Time ContractPart-Time InternshipPart-Time PermanentPart-Time Regular')]</value>
-      <webElementGuid>04dfe14d-f16e-4302-b04b-47f59026a71a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

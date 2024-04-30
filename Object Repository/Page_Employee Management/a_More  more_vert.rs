@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c4593938-c036-46d4-9aed-9b9a4fbf79f2</webElementGuid>
+      <webElementGuid>343eb48f-fc84-4ad3-b6ab-906ffb2573b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>!sref &amp;&amp; !menuTooltip</value>
-      <webElementGuid>7d3d1a38-2362-42b9-a663-5f7a334bf705</webElementGuid>
+      <webElementGuid>8b18d3cc-6a5c-491f-9a2a-58bd5534864d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>ng-attr-href</name>
       <type>Main</type>
       <value>{{href}}</value>
-      <webElementGuid>4e44d8b2-0655-42b0-a4d1-3a2a812c7e14</webElementGuid>
+      <webElementGuid>a10300ae-6431-4ca1-96fc-7bfc68e034b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>top-level-menu-item </value>
-      <webElementGuid>54bfba1e-df3a-4afb-bc52-19ca5edb3fcf</webElementGuid>
+      <webElementGuid>5dffd40b-9445-4baf-b623-0b4159906a58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>ng-attr-target</name>
       <type>Main</type>
       <value>{{target}}</value>
-      <webElementGuid>c9ba13fb-b917-487a-8e77-facd83706e37</webElementGuid>
+      <webElementGuid>e9ccb46d-76b3-49fb-89b5-2ad71e8b62b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>toggleShowSubmenu()</value>
-      <webElementGuid>e595109c-3252-4eb2-b70f-1b1d026e99c2</webElementGuid>
+      <webElementGuid>6a70c3d4-7ed1-4f98-a857-b4cdee6b8c2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>data-automation-id</name>
       <type>Main</type>
       <value>more_menu_child_menu_top_more</value>
-      <webElementGuid>92104df6-ef61-4563-b781-4d381ae23f17</webElementGuid>
+      <webElementGuid>60808560-594a-4652-91ce-5533687dccc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>24ce7e65-b266-4873-b0e8-7b18290d80fe</webElementGuid>
+      <webElementGuid>ad568f0c-732a-460d-a9dd-75297294aefd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>text</name>
       <type>Main</type>
       <value>More  more_vert</value>
-      <webElementGuid>84139fa5-807e-4859-83ce-4b241ca72f8e</webElementGuid>
+      <webElementGuid>5c525e7a-8866-4d50-91ce-71b0651e99c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;top-ribbon-menu&quot;)/div[@class=&quot;top-ribbon-menu-more-items&quot;]/top-level-menu-item[2]/div[@class=&quot;top-level-menu-item-container&quot;]/a[@class=&quot;top-level-menu-item&quot;]</value>
-      <webElementGuid>8401fb9d-3a9a-4bee-87b7-9641a8a3542e</webElementGuid>
+      <webElementGuid>c447fd7d-6d6f-4a88-af5d-26146c4f6574</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='top-ribbon-menu']/div[3]/top-level-menu-item[2]/div/a</value>
-      <webElementGuid>03048964-50e3-40b8-bc04-4da4a8776d77</webElementGuid>
+      <webElementGuid>9bc1a7d6-75c7-4f00-ba00-85949070155f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::a[1]</value>
-      <webElementGuid>7279bed4-14ef-469a-8820-e306f172a3b3</webElementGuid>
+      <webElementGuid>aa09976e-d340-467b-80f9-247fe11b949d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Candidate Records'])[1]/following::a[2]</value>
-      <webElementGuid>2440cdb8-97de-46c2-8158-a0e56e41a96b</webElementGuid>
+      <webElementGuid>9e476d58-6fa6-41e6-b3cb-414e123a6b94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Buzz'])[2]/preceding::a[1]</value>
-      <webElementGuid>4811943b-9e7f-42fd-9e9f-f86acd13e83b</webElementGuid>
+      <webElementGuid>cb69a5e1-1f3a-4bbb-801b-df9e4c17474c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/top-level-menu-item[2]/div/a</value>
-      <webElementGuid>788f98e2-9966-4640-b00f-ae37198425f2</webElementGuid>
+      <webElementGuid>e89e416c-d79b-44a4-9abd-c132ded92fcb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'More  more_vert' or . = 'More  more_vert')]</value>
-      <webElementGuid>1606b22a-2679-47ab-9c33-532279fd47f9</webElementGuid>
+      <webElementGuid>3faf553f-ae2a-4c12-9e80-24bb7afe5049</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

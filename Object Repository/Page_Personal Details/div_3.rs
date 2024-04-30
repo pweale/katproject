@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Save</name>
+   <name>div_3</name>
    <tag></tag>
-   <elementGuidId>65a502a5-ac58-4c2d-bc1f-f0034e950319</elementGuidId>
+   <elementGuidId>eb3b9873-862c-43b5-97fe-b0611e15546f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[6]</value>
+         <value>//table[@id='P128362100_table']/tbody/tr/td[5]/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>#P128362100_table > tbody > tr > td:nth-of-type(5) > div.picker__day.picker__day--infocus</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Save&quot;i]</value>
+         <value>internal:label=&quot;2025-04-03&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,127 +28,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>b2ac42c9-0ee7-4ffa-b3fd-2b199f43f183</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ng-show</name>
-      <type>Main</type>
-      <value>vm.showFinishButton</value>
-      <webElementGuid>8e4c22ef-0a03-47fd-a91b-6018d1d3ca6d</webElementGuid>
+      <value>div</value>
+      <webElementGuid>3ef5fb4e-c33d-4cf6-98c6-f281d156f77e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-secondary right</value>
-      <webElementGuid>542dd414-b5cb-4813-aded-17dd23809607</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>cfcbfe23-2944-46b7-99cd-8a63b6ee12d8</webElementGuid>
+      <value>picker__day picker__day--infocus</value>
+      <webElementGuid>fcd732cf-3431-4bd9-bc3c-f4394f7b007c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>ng-class</name>
+      <name>data-pick</name>
       <type>Main</type>
-      <value>{disabled: !vm.canSubmitForm}</value>
-      <webElementGuid>9b203e65-4a65-4258-af37-59becd147c69</webElementGuid>
+      <value>1743649200000</value>
+      <webElementGuid>05979603-919d-482c-8001-26c1d73ce32b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>ohrm-click-and-wait</name>
+      <name>role</name>
       <type>Main</type>
-      <value>vm.onFinish()</value>
-      <webElementGuid>e9c27427-1cf4-4b66-9fff-cbc5168e2553</webElementGuid>
+      <value>gridcell</value>
+      <webElementGuid>c137e313-fc50-4db2-9ba7-e5a6ec4dcf15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>2025-04-03</value>
+      <webElementGuid>7ea061da-2b77-4d95-9d13-0c21c46dee90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Save</value>
-      <webElementGuid>8357285b-f22d-44c0-9de6-4752d15a9e2d</webElementGuid>
+      <value>3</value>
+      <webElementGuid>fdcfd5ec-9b30-4078-9c3c-b7199bec003e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;wizard-nav-button-section&quot;)/button[@class=&quot;btn btn-secondary right&quot;]</value>
-      <webElementGuid>2929f5cf-5cfd-4959-a5be-f1c926304082</webElementGuid>
+      <value>id(&quot;P128362100_table&quot;)/tbody[1]/tr[1]/td[5]/div[@class=&quot;picker__day picker__day--infocus&quot;]</value>
+      <webElementGuid>52b1ab17-90b0-435c-8eef-ead877aa4070</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//button[@type='button'])[6]</value>
-      <webElementGuid>ad9cf1cd-286f-45e5-b3b0-943d669218d1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='wizard-nav-button-section']/button[3]</value>
-      <webElementGuid>302e9458-ccd9-4f3a-a758-498c3b703807</webElementGuid>
+      <value>//table[@id='P128362100_table']/tbody/tr/td[5]/div</value>
+      <webElementGuid>e9d3273a-f375-44dc-85d6-1067090b1f69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::button[1]</value>
-      <webElementGuid>86bfca9e-1ef7-4556-9344-d4c773b0a33c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[4]/following::div[5]</value>
+      <webElementGuid>b84f3ba5-07a3-40d7-8f14-e0a6cf1e669b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prev'])[1]/following::button[2]</value>
-      <webElementGuid>1ec02a23-c811-4f69-9682-e3a9f8de572e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[2]/following::div[5]</value>
+      <webElementGuid>1829bb2c-0b87-4138-a8aa-6bf340d1aaf5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM 7.12-VAS'])[1]/preceding::button[1]</value>
-      <webElementGuid>222feb3f-9c83-447a-9622-e91b15916611</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[2]/preceding::div[38]</value>
+      <webElementGuid>21521416-9e3e-4eab-9ddc-73d312cda038</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
-      <webElementGuid>571cb7eb-18bd-4a71-a454-238ebd04688c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[2]/preceding::div[38]</value>
+      <webElementGuid>d9b3840c-f855-43c3-a43b-7400c048edd8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button[3]</value>
-      <webElementGuid>4bef3ea7-4559-4ca1-859f-b73d3c7ec3b1</webElementGuid>
+      <value>//sf-decorator[3]/div/span/span/div/div/div/div/div/div[2]/table/tbody/tr/td[5]/div</value>
+      <webElementGuid>3f445dc0-df3c-40c9-8e12-d42ec41ee793</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Save' or . = 'Save')]</value>
-      <webElementGuid>e98997bb-bd00-4ae8-a271-8dc87b7ae684</webElementGuid>
+      <value>//div[(text() = '3' or . = '3')]</value>
+      <webElementGuid>009478ce-8588-446d-99ce-941a9df47195</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

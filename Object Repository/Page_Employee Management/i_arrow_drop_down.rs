@@ -6,12 +6,12 @@
    <elementGuidId>795c5a6f-ce87-42f9-aee0-ccd32fb91e5f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='modal-holder']/div/div/div/div[2]/form/oxd-decorator/div/div[2]/div/div[3]/div/div[3]/div/div[2]/div/button/i[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>ecb3ad3e-1e9f-4a77-b878-89b35fc0f348</webElementGuid>
+      <webElementGuid>e13575c1-90aa-41fa-93ee-263c639e146b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons</value>
-      <webElementGuid>ed53a8b9-b054-49b4-9f70-f356c623bf01</webElementGuid>
+      <webElementGuid>ca887635-3d4e-4ded-bd4f-0f5873e683fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>arrow_drop_down</value>
-      <webElementGuid>ccf1e493-ddfa-4513-9608-5d4ca6a9f39c</webElementGuid>
+      <webElementGuid>a6382564-45dc-4428-92b9-1e1b125eafe0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;modal-holder&quot;)/div[@class=&quot;modal show&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[@class=&quot;generic-oxd-modal-form needs-validation ng-valid ng-valid-file-size ng-valid-file-type ng-valid-schema-form ng-dirty ng-valid-pattern ng-valid-display-input-validity ng-valid-date-range ng-valid-tv4-201 ng-valid-parse ng-valid-tv4-302&quot;]/oxd-decorator[1]/div[@class=&quot;form-row&quot;]/div[@class=&quot;form-group col-8&quot;]/div[@class=&quot;form-row add-employee-details-row&quot;]/div[@class=&quot;form-group col-12&quot;]/div[@class=&quot;form-row&quot;]/div[@class=&quot;form-group col-5&quot;]/div[@class=&quot;input-group form-select&quot;]/div[@class=&quot;input-group-append-container&quot;]/div[@class=&quot;input-group-append&quot;]/button[@class=&quot;btn&quot;]/i[@class=&quot;material-icons&quot;]</value>
-      <webElementGuid>24f7babe-7f69-4ad2-b8c8-38433b56d297</webElementGuid>
+      <webElementGuid>6a9b6889-bd12-43eb-a54f-e7daedd1e00b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,55 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modal-holder']/div/div/div/div[2]/form/oxd-decorator/div/div[2]/div/div[3]/div/div[3]/div/div[2]/div/button/i[2]</value>
-      <webElementGuid>62094bbe-89ec-4960-a4a1-cadf07877e27</webElementGuid>
+      <webElementGuid>5a819224-dafc-4d11-9d42-43de105d26b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='US Office'])[14]/following::i[2]</value>
+      <webElementGuid>9ecbfa09-a965-407f-beb2-ea2305ce0df7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United States'])[2]/following::i[2]</value>
+      <webElementGuid>694e88e5-deb2-4180-bf5c-ced7243c8510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Login Details'])[1]/preceding::i[1]</value>
+      <webElementGuid>8fe2cb90-8e35-45f3-9f9f-ba31125c41d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='* Required'])[1]/preceding::i[1]</value>
+      <webElementGuid>0a9c0ddb-41a9-4951-bffd-ab2461a15aea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i[2]</value>
+      <webElementGuid>cc536365-7bbf-4eb9-8c1c-fb6b39b5e6c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'arrow_drop_down' or . = 'arrow_drop_down')]</value>
+      <webElementGuid>ab1a009f-fb83-4e13-95ae-4c98f0132167</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,45 +118,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='US Office'])[15]/following::i[2]</value>
       <webElementGuid>96590a3a-6b84-4303-9d29-a490a5c30451</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='United States'])[2]/following::i[2]</value>
-      <webElementGuid>326bb2dc-309d-4ee7-9520-90474dc1310b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Login Details'])[1]/preceding::i[1]</value>
-      <webElementGuid>0496f755-7817-4d92-a60d-7f1aad9579dd</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='* Required'])[1]/preceding::i[1]</value>
-      <webElementGuid>aa697c92-ce7e-4cd1-91e6-5fbdbfbb5c63</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//i[2]</value>
-      <webElementGuid>8853d0f4-ec39-4610-affa-a737893cfbb0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//i[(text() = 'arrow_drop_down' or . = 'arrow_drop_down')]</value>
-      <webElementGuid>413695c1-9aa7-4353-9d53-69b8e5fbe937</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

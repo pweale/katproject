@@ -6,12 +6,12 @@
    <elementGuidId>f472a782-1ab9-40bf-b1b2-377484192fa7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#select-options-14a24d3c-6447-5f20-ea4c-39e695201c38 > li:nth-of-type(3) > span</value>
+         <key>XPATH</key>
+         <value>//ul[@id='select-options-d93e2947-4e40-89b7-350b-c3e5e27c3332']/li[3]/span</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//ul[@id='select-options-14a24d3c-6447-5f20-ea4c-39e695201c38']/li[3]/span</value>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>0a1e5c4a-3a08-40d8-bc89-0e1731d3bbfb</webElementGuid>
+      <webElementGuid>9a0ba59c-3b2f-40c1-80e2-8443597da5b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,18 +37,82 @@
       <name>text</name>
       <type>Main</type>
       <value>Single</value>
-      <webElementGuid>554340a0-3e39-41ec-b79e-91f13afbd213</webElementGuid>
+      <webElementGuid>a1051112-6b71-4825-88e9-d667986073ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;select-options-14a24d3c-6447-5f20-ea4c-39e695201c38&quot;)/li[3]/span[1]</value>
-      <webElementGuid>c39ab6d8-8b53-4cf0-a256-52e355860c87</webElementGuid>
+      <value>id(&quot;select-options-d93e2947-4e40-89b7-350b-c3e5e27c3332&quot;)/li[3]/span[1]</value>
+      <webElementGuid>8ba2ef4a-6f83-4f76-829d-e902006bc633</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select-options-d93e2947-4e40-89b7-350b-c3e5e27c3332']/li[3]/span</value>
+      <webElementGuid>c0955556-22ae-4719-8039-723839a82748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Married'])[1]/following::span[1]</value>
+      <webElementGuid>3c1f7715-8ee0-41d4-bb79-1969057484ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[1]/following::span[2]</value>
+      <webElementGuid>a25b4034-13b0-4099-9551-0f138f662670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other'])[2]/preceding::span[1]</value>
+      <webElementGuid>7617ad62-9ffd-4a81-a170-3dcd93aebddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marital Status'])[1]/preceding::span[2]</value>
+      <webElementGuid>6215db81-b433-4553-b8e6-71f37d6607ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Single']/parent::*</value>
+      <webElementGuid>4ad000d4-9876-49b8-8a84-de4fdad87270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/span</value>
+      <webElementGuid>743233c3-e689-41d0-80fd-b308518ee8ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Single' or . = 'Single')]</value>
+      <webElementGuid>6957af61-2bf1-46f0-8c90-0896f778d665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -58,57 +122,9 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Married'])[1]/following::span[1]</value>
-      <webElementGuid>8e7c53bf-547e-4db3-bb8f-91f365a208b7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[1]/following::span[2]</value>
-      <webElementGuid>e2ecbff7-339a-4f27-b436-d1f8c79b935a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other'])[2]/preceding::span[1]</value>
-      <webElementGuid>75869f9c-315b-43c9-b917-a3e43c572d4e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marital Status'])[1]/preceding::span[2]</value>
-      <webElementGuid>f9e4dfe3-3f7d-4771-ba55-1a4a047ccb28</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Single']/parent::*</value>
-      <webElementGuid>4ebbcec8-f643-47de-bf5f-34b67451bab5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//sf-decorator[2]/div/div/ul/li[3]/span</value>
       <webElementGuid>9cc1b72a-5f80-4b06-8cbd-45872ad27741</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = 'Single' or . = 'Single')]</value>
-      <webElementGuid>59d13949-b09e-4e85-a1ea-ff3b9837ecab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

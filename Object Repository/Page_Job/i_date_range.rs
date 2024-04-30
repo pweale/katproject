@@ -6,19 +6,19 @@
    <elementGuidId>067fb2ad-49b7-4807-8b99-c3ed947ec8ce</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>i.material-icons.date-picker-open-icon</value>
+         <key>XPATH</key>
+         <value>//div[@id='employement_details_tab']/form/div/oxd-decorator[6]/div/div/div[2]/div/div/button/i</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='employement_details_tab']/form/div/oxd-decorator/div/div/div[2]/div/div/button/i</value>
+         <key>CSS</key>
+         <value>oxd-decorator:nth-of-type(6) > div.form-row > div.form-group.col-4 > div[name=&quot;dateForm&quot;] > div.input-group-append-container > div.input-group-append > button.btn.date-picker-button > i.material-icons.date-picker-open-icon</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;date_range&quot;i] >> nth=0</value>
+         <value>internal:role=button[name=&quot;date_range&quot;i] >> nth=2</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>3b4d2381-8ad3-470a-8ae3-375a914931aa</webElementGuid>
+      <webElementGuid>a4cc6b00-a5b3-40ed-841f-7b77eca9b6fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons date-picker-open-icon</value>
-      <webElementGuid>67261479-a813-41f0-bb77-46bb94dd39e7</webElementGuid>
+      <webElementGuid>ec467c69-c467-4d72-abfa-ed50bdf5cd31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,18 +45,74 @@
       <name>text</name>
       <type>Main</type>
       <value>date_range</value>
-      <webElementGuid>6bf2ed74-7c53-4be4-b482-a4d77931472f</webElementGuid>
+      <webElementGuid>9b3b81dd-850a-4b06-bda7-7099186a4009</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;employement_details_tab&quot;)/form[@class=&quot;with-standard-section-attached ng-pristine ng-valid ng-valid-schema-form ng-valid-pattern ng-valid-display-input-validity ng-valid-date-range ng-valid-maxlength&quot;]/div[1]/oxd-decorator[1]/div[@class=&quot;form-row&quot;]/div[@class=&quot;form-group col-4&quot;]/div[@class=&quot;input-group form-date ng-pristine ng-valid ng-valid-pattern ng-valid-display-input-validity ng-valid-schema-form ng-valid-date-range&quot;]/div[@class=&quot;input-group-append-container&quot;]/div[@class=&quot;input-group-append&quot;]/button[@class=&quot;btn date-picker-button&quot;]/i[@class=&quot;material-icons date-picker-open-icon&quot;]</value>
-      <webElementGuid>ff6b0614-4a8d-4871-8100-e24120548558</webElementGuid>
+      <value>id(&quot;employement_details_tab&quot;)/form[@class=&quot;with-standard-section-attached ng-valid ng-valid-schema-form ng-valid-pattern ng-valid-display-input-validity ng-valid-date-range ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[1]/oxd-decorator[6]/div[@class=&quot;form-row&quot;]/div[@class=&quot;form-group col-4&quot;]/div[@class=&quot;input-group form-date ng-pristine ng-valid ng-valid-pattern ng-valid-display-input-validity ng-valid-schema-form ng-valid-date-range&quot;]/div[@class=&quot;input-group-append-container&quot;]/div[@class=&quot;input-group-append&quot;]/button[@class=&quot;btn date-picker-button&quot;]/i[@class=&quot;material-icons date-picker-open-icon&quot;]</value>
+      <webElementGuid>3cde4dc2-8588-4890-bb1d-bc3ee4598318</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='employement_details_tab']/form/div/oxd-decorator[6]/div/div/div[2]/div/div/button/i</value>
+      <webElementGuid>6f369ad3-63ca-410e-8958-f5005d6be121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contract Start Date'])[2]/following::i[1]</value>
+      <webElementGuid>2359908f-57d2-45aa-a797-5fd77ba8fb38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contract Start Date'])[1]/following::i[1]</value>
+      <webElementGuid>26c32b0e-ce28-4e8d-b501-e495a301c911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expected format: yyyy-mm-dd'])[3]/preceding::i[1]</value>
+      <webElementGuid>9b4709ec-0a5f-4fac-9bf7-181d9ad117ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required'])[3]/preceding::i[1]</value>
+      <webElementGuid>e31302cd-07fa-457b-8476-a3e9cf615824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//oxd-decorator[6]/div/div/div[2]/div/div/button/i</value>
+      <webElementGuid>05c8b72c-3c64-49f8-b4e3-b993e3a6a156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'date_range' or . = 'date_range')]</value>
+      <webElementGuid>c3964698-ff08-42a8-ab8e-f0ad59db269a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -110,13 +166,5 @@
       <type>Main</type>
       <value>//button/i</value>
       <webElementGuid>1f99cff6-4a64-40da-be20-749dc7320106</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//i[(text() = 'date_range' or . = 'date_range')]</value>
-      <webElementGuid>5c1fd1e9-3882-4f1c-b2f7-c9aa1ba1ce9f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

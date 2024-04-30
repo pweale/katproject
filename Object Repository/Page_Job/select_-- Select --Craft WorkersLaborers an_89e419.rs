@@ -6,12 +6,12 @@
    <elementGuidId>4d64cd80-41c6-4319-837e-582feaffbacd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#job_category_id</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='job_category_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#job_category_id</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>d5204c23-bc27-4f5d-80a0-04d4f8b191dd</webElementGuid>
+      <webElementGuid>39a614d1-ef61-4bf7-8840-6bc3359de678</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>!form.translate</value>
-      <webElementGuid>d6878178-5ea4-4a62-aac5-1e80b8665520</webElementGuid>
+      <webElementGuid>0e8359fd-3a12-4594-b958-c0104f8c3a5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>job_category_id</value>
-      <webElementGuid>8af31bc9-51b0-4487-8d43-1ddcb5a510e4</webElementGuid>
+      <webElementGuid>4a54f1dd-a150-4ed0-814d-d1defc99dc52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>model['job_category_id']</value>
-      <webElementGuid>6761f6a6-d731-4b08-a1ba-b1e1fca1d370</webElementGuid>
+      <webElementGuid>c65029db-10bf-47ca-af1b-1b77f6a44961</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>ng-model-options</name>
       <type>Main</type>
       <value>form.ngModelOptions</value>
-      <webElementGuid>87676f21-65fa-4706-a767-410f7a696374</webElementGuid>
+      <webElementGuid>3cef96bc-8664-46ec-b0c7-fc37dea10711</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>ng-disabled</name>
       <type>Main</type>
       <value>form.readonly</value>
-      <webElementGuid>c34cdd8d-8c6e-4f79-80c3-e055900efa23</webElementGuid>
+      <webElementGuid>98f548e7-d822-4bab-a4f6-d993cda08d9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>sf-changed</name>
       <type>Main</type>
       <value>form</value>
-      <webElementGuid>3adf8387-5173-4564-9e53-871a41346a6e</webElementGuid>
+      <webElementGuid>cadc23bc-6098-4801-bde9-27d89900f2d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select-dropdown</value>
-      <webElementGuid>348fcc98-c50a-434d-9b77-8ed56f8d9f4d</webElementGuid>
+      <webElementGuid>7cf2e997-d100-481b-be4d-98500c54725c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>ng-class</name>
       <type>Main</type>
       <value>{'loader-is-showing' : form.showLoader}</value>
-      <webElementGuid>1ee6c9b7-4e38-49c9-9a19-bac9e6516906</webElementGuid>
+      <webElementGuid>60894c3d-eb7d-4da1-bef4-abaf260e2b17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>schema-validate</name>
       <type>Main</type>
       <value>form</value>
-      <webElementGuid>8fc5569e-1951-4e89-809f-191be92a81e9</webElementGuid>
+      <webElementGuid>25582f2d-5424-4e3c-9d52-cf02cc0bd0de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>ng-options</name>
       <type>Main</type>
       <value>item.value as item.name group by item.group for item in form.titleMap</value>
-      <webElementGuid>c0064faa-6d0d-4948-9d83-766f2fa312d1</webElementGuid>
+      <webElementGuid>4f0497b0-a74f-4150-8f3c-61af6186e090</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>ohrm-make-element-non-pristine</name>
       <type>Main</type>
       <value>form.removePristine</value>
-      <webElementGuid>96dc20dd-64ea-479c-9571-a7002ee35094</webElementGuid>
+      <webElementGuid>584cf5e5-dd15-4bde-9781-0f3c03a3c23c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -125,7 +125,7 @@
       <name>name</name>
       <type>Main</type>
       <value>job_category_id</value>
-      <webElementGuid>158b3f92-178e-4cbd-9e01-81e5caabf34f</webElementGuid>
+      <webElementGuid>c13ab9ae-760b-430d-8b79-08929859c67e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -133,7 +133,7 @@
       <name>text</name>
       <type>Main</type>
       <value>-- Select --Craft WorkersLaborers and HelpersOffice and Clerical WorkersOfficials and ManagersOperativesProfessionalsSales WorkersService WorkersTechnicians</value>
-      <webElementGuid>521510e3-ecf1-4d1c-a2ef-b4bb9394a4c2</webElementGuid>
+      <webElementGuid>157f4a1f-d1bc-4f32-91d8-4e56a8366294</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;job_category_id&quot;)</value>
-      <webElementGuid>eb7ac83e-34c4-4ce2-bb13-d5a0860c530f</webElementGuid>
+      <webElementGuid>d64c6e4b-9762-48a4-9c40-f0986a3acc28</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='job_category_id']</value>
-      <webElementGuid>53e94503-7e62-4ead-9ae2-a8b3bef60a71</webElementGuid>
+      <webElementGuid>fdb9f9f1-f957-4a8a-8321-85b90fe99cc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='employement_details_tab']/form/div/oxd-decorator/div/div[6]/div/div/select</value>
-      <webElementGuid>a8542ef6-1c8d-4e99-bbdb-660ec7d5fe06</webElementGuid>
+      <webElementGuid>283ae729-8230-4294-b6e9-301e094b1f91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Category'])[1]/following::select[1]</value>
-      <webElementGuid>ebca3671-fcc5-43bc-89b1-9f788e4ee3d5</webElementGuid>
+      <webElementGuid>c9a7892b-9c4f-4fe3-9b06-b3f7ead18417</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,7 +173,39 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='file_downloadng'])[1]/following::select[1]</value>
-      <webElementGuid>499ef647-ce61-458e-baf3-b907f834124f</webElementGuid>
+      <webElementGuid>3cb488e6-e600-45a6-a3ff-abcae65c206c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[7]/preceding::select[1]</value>
+      <webElementGuid>68f73ab2-39c2-45da-9aa3-ff12c47ad2f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[8]/preceding::select[1]</value>
+      <webElementGuid>c065aabc-2a2e-41b7-967e-71651b0ab6ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/select</value>
+      <webElementGuid>845f0910-c051-4dc0-a62d-451b6094f00d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'job_category_id' and @name = 'job_category_id' and (text() = '-- Select --Craft WorkersLaborers and HelpersOffice and Clerical WorkersOfficials and ManagersOperativesProfessionalsSales WorkersService WorkersTechnicians' or . = '-- Select --Craft WorkersLaborers and HelpersOffice and Clerical WorkersOfficials and ManagersOperativesProfessionalsSales WorkersService WorkersTechnicians')]</value>
+      <webElementGuid>adc923bb-2d76-490d-9fbf-8d8e66312294</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,29 +214,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[6]/preceding::select[1]</value>
       <webElementGuid>ce685431-ce40-43fb-8cb7-3726b57681fb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[7]/preceding::select[1]</value>
-      <webElementGuid>800e78ea-9136-477a-83a3-fb33fed2beb8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[6]/div/div/select</value>
-      <webElementGuid>0fd09a2b-1634-45db-814d-f9f36e9910eb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//select[@id = 'job_category_id' and @name = 'job_category_id' and (text() = '-- Select --Craft WorkersLaborers and HelpersOffice and Clerical WorkersOfficials and ManagersOperativesProfessionalsSales WorkersService WorkersTechnicians' or . = '-- Select --Craft WorkersLaborers and HelpersOffice and Clerical WorkersOfficials and ManagersOperativesProfessionalsSales WorkersService WorkersTechnicians')]</value>
-      <webElementGuid>097d1e0a-b0cc-45bd-a546-b7f53e8a473a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

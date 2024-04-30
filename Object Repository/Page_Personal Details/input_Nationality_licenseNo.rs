@@ -6,12 +6,12 @@
    <elementGuidId>6fdfbd36-cace-49eb-86b2-b50af4f34fd7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#licenseNo</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='licenseNo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#licenseNo</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d9feabe8-a2d8-4806-bfce-8858463cc2eb</webElementGuid>
+      <webElementGuid>40166fac-39cd-410d-a2df-58dd090ee5db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>licenseNo</value>
-      <webElementGuid>5a006991-78aa-4242-9f96-2ec25232c112</webElementGuid>
+      <webElementGuid>6426f33d-95f9-42e1-a41e-5d10f1aadc89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>sf-changed</name>
       <type>Main</type>
       <value>form</value>
-      <webElementGuid>189766a9-09ca-48db-85c4-9f15a7ccebb4</webElementGuid>
+      <webElementGuid>f0da418c-469f-4e0d-a723-72e3bfe9be55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>1b640eae-454c-4dec-81e5-ce4a5fb429ec</webElementGuid>
+      <webElementGuid>4f9f58aa-23ac-4100-b6a9-c236543d0a87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>ng-disabled</name>
       <type>Main</type>
       <value>form.readonly</value>
-      <webElementGuid>4465257c-3d22-46d1-86e4-961adc26b596</webElementGuid>
+      <webElementGuid>2e41311c-bbbb-4cd3-8c78-40903bd0366a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>schema-validate</name>
       <type>Main</type>
       <value>form</value>
-      <webElementGuid>7a60277a-03e5-48cc-b034-d7f5256b5e79</webElementGuid>
+      <webElementGuid>7290cece-620b-43b5-b45a-e567d9dcd8be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>model['licenseNo']</value>
-      <webElementGuid>d2482725-5377-4a16-9670-395b035f6310</webElementGuid>
+      <webElementGuid>3b63ea15-86de-47a4-baff-9e9498a47ffd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>ng-model-options</name>
       <type>Main</type>
       <value>form.ngModelOptions</value>
-      <webElementGuid>8b70ad16-79a3-4b05-bfb0-e31872eab506</webElementGuid>
+      <webElementGuid>6c921b1a-2e57-4eb1-aadb-c7bfc270e7d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>ohrm-make-element-non-pristine</name>
       <type>Main</type>
       <value>form.removePristine</value>
-      <webElementGuid>df4fb30e-bbca-4d8a-9eb2-bff322a7e4c1</webElementGuid>
+      <webElementGuid>f58ea756-e51a-42e5-802b-6ce7e8d49b93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>ng-attr-autocomplete</name>
       <type>Main</type>
       <value>{{form.autocompleteOff}}</value>
-      <webElementGuid>8163e7c8-10df-4879-8635-96a664df2e1f</webElementGuid>
+      <webElementGuid>3e10d693-ceb5-4bde-8a55-314abe0e8ed7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,15 +109,15 @@
       <name>ng-blur</name>
       <type>Main</type>
       <value>form.onBlur()</value>
-      <webElementGuid>886fd563-9b73-4e1d-a55a-e0db34cab770</webElementGuid>
+      <webElementGuid>df94bf49-baf7-434e-903b-3958db6e271a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ng-pristine ng-untouched ng-valid ng-empty ng-valid-schema-form</value>
-      <webElementGuid>df248752-2fba-481b-bfb5-8601d0fbfd73</webElementGuid>
+      <value>ng-pristine ng-untouched ng-valid ng-empty ng-valid-schema-form ng-not-empty-add ng-pristine-remove ng-dirty-add ng-valid-parse-add ng-animate ng-empty-remove</value>
+      <webElementGuid>408fb9c9-ac61-41fc-8ce2-fb5e814604f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;licenseNo&quot;)</value>
-      <webElementGuid>a4c6fe07-6757-486c-888b-223dd92e06ea</webElementGuid>
+      <webElementGuid>92042337-2cd4-4539-8347-f63997479eba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-animate</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>7fefa476-4d85-4759-87d4-38f5380bf99c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -133,7 +141,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='licenseNo']</value>
-      <webElementGuid>a025e168-99c1-446f-b493-51af859db84e</webElementGuid>
+      <webElementGuid>46ed16fd-600d-487f-8252-b133badfeb66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +149,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='pimPersonalDetailsForm']/materializecss-decorator[5]/div/sf-decorator[2]/div/input</value>
-      <webElementGuid>0877466f-6ea3-464b-be9d-88974b3ec2a4</webElementGuid>
+      <webElementGuid>68d96dd5-1a8e-4921-9c5f-5afc2aa3fa36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +157,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//materializecss-decorator[5]/div/sf-decorator[2]/div/input</value>
-      <webElementGuid>21892fdd-d34d-4b45-858b-21c0dd95eaab</webElementGuid>
+      <webElementGuid>b9ed32c3-ce3d-42ea-9709-19bb5c3cf3fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +165,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'licenseNo' and @type = 'text']</value>
-      <webElementGuid>4fa2b20a-6f5d-456f-a608-81ad4dd8edfb</webElementGuid>
+      <webElementGuid>159cb4a0-b0cf-488b-957b-f7de96aeed57</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

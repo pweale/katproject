@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Quality assurance (QA)</name>
+   <name>span_Canadian Development Center</name>
    <tag></tag>
-   <elementGuidId>2f5f5aba-850a-4e95-bcc2-a8baa1f69dbe</elementGuidId>
+   <elementGuidId>dc0d85c5-22bb-4719-bace-22711bfbe5ce</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='bs-select-5-2']/span</value>
+         <value>//a[@id='bs-select-1-4']/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#bs-select-5-2 > span.text</value>
+         <value>#bs-select-1-4 > span.text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#bs-select-5-2</value>
+         <value>#bs-select-1-4</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>6fb312d8-6ba4-4c1f-bcb1-d673116b90b2</webElementGuid>
+      <webElementGuid>4f6151ba-ba26-4462-912e-46420e38fc5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,86 +37,78 @@
       <name>class</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d3c87c2c-eccd-48f0-8902-e056776b562a</webElementGuid>
+      <webElementGuid>05ff3d69-bb49-4f1d-b8cd-635947b73aab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Quality assurance (QA)</value>
-      <webElementGuid>dafcba2d-13be-488e-b273-229abd5d8ef7</webElementGuid>
+      <value>Canadian Development Center</value>
+      <webElementGuid>7d00cc11-4bc4-47e1-af55-d5b28dd33700</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;bs-select-5-2&quot;)/span[@class=&quot;text&quot;]</value>
-      <webElementGuid>72afb580-eae2-4198-94d8-cef4d4fed2d3</webElementGuid>
+      <value>id(&quot;bs-select-1-4&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>59bdc70c-ee59-42be-b214-6214a77f46fa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//a[@id='bs-select-5-2']/span</value>
-      <webElementGuid>124801c7-1350-4902-b23d-59406116703a</webElementGuid>
+      <value>//a[@id='bs-select-1-4']/span</value>
+      <webElementGuid>995baacd-094a-4b55-899f-74bbe9f9d7ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Architecture Team'])[2]/following::span[1]</value>
-      <webElementGuid>f3c2c34d-fe92-4792-a895-a3a5d2d04a49</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Canada'])[2]/following::span[1]</value>
+      <webElementGuid>c00f9a35-371d-4aed-a76d-96544b6d2ea0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[11]/following::span[2]</value>
-      <webElementGuid>29f1ecb5-6480-47c6-acbe-8700684a7a60</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Australia office'])[6]/following::span[2]</value>
+      <webElementGuid>706a7812-5fc4-479a-b804-e65a801d215e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Engineering'])[2]/preceding::span[1]</value>
-      <webElementGuid>44eaa210-fa47-41a6-87ac-1477a23fa26e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='France'])[2]/preceding::span[1]</value>
+      <webElementGuid>ace96d97-cfa2-442c-82bf-07e8817440aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance'])[2]/preceding::span[2]</value>
-      <webElementGuid>35ad33c5-1217-45a1-9da3-8eebec23065a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='France Office'])[6]/preceding::span[2]</value>
+      <webElementGuid>f5e9fc58-a558-4a0d-8bc5-0fa278daea15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[8]/div/div/div/div/ul/li[3]/a/span</value>
-      <webElementGuid>3d1e7c9b-1b2b-44a2-9171-94fb3987f35f</webElementGuid>
+      <value>//li[5]/a/span</value>
+      <webElementGuid>7eb0393b-39f5-4049-a879-65c29642b447</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Quality assurance (QA)' or . = 'Quality assurance (QA)')]</value>
-      <webElementGuid>5d9668e0-3c85-4469-9756-e07d1510efa6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[9]/following::span[2]</value>
-      <webElementGuid>fdf40748-7bec-45e2-a1f0-07ffd53280bb</webElementGuid>
+      <value>//span[(text() = 'Canadian Development Center' or . = 'Canadian Development Center')]</value>
+      <webElementGuid>6118a8e5-a4cb-4959-87b4-cbc98c0adf4c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

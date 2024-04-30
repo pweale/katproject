@@ -6,12 +6,12 @@
    <elementGuidId>9a9f11a0-1c58-4d1b-a661-fbdb86b16065</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#job_title_id</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='job_title_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#job_title_id</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>5c269205-d0f6-4998-9ba5-c0be9f1b13b6</webElementGuid>
+      <webElementGuid>ef743adb-1f0e-47f6-80c1-d5a5e774fcd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>!form.translate</value>
-      <webElementGuid>e6568b34-8a4e-4aa3-ac80-b596e21e08bf</webElementGuid>
+      <webElementGuid>d9520c17-eb9f-46a8-8163-cf82ef5f96a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>job_title_id</value>
-      <webElementGuid>f6bb4a34-6cd7-492e-8359-7c143f64a483</webElementGuid>
+      <webElementGuid>d2edeada-605e-434f-b057-95e1b105682b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>model['job_title_id']</value>
-      <webElementGuid>8691128e-664e-49f2-b79f-24b30d25a8da</webElementGuid>
+      <webElementGuid>f5ea8f60-dcdf-4c65-abfe-e0fe541a5941</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>ng-model-options</name>
       <type>Main</type>
       <value>form.ngModelOptions</value>
-      <webElementGuid>451d5773-1989-42be-8631-776a3d424de7</webElementGuid>
+      <webElementGuid>b3cda5a2-d5c3-4dd0-9fb9-47a2259dfdc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>ng-disabled</name>
       <type>Main</type>
       <value>form.readonly</value>
-      <webElementGuid>77d04440-4831-4724-960d-a94c9707abae</webElementGuid>
+      <webElementGuid>4fb313a9-e302-4547-ba7b-3bdd5c107a60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>sf-changed</name>
       <type>Main</type>
       <value>form</value>
-      <webElementGuid>e943c97b-e1c0-44d9-9bfd-e2afc2843f0d</webElementGuid>
+      <webElementGuid>397b4f27-8180-4606-8fef-8e90a703f638</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select-dropdown</value>
-      <webElementGuid>f2a79cc6-b14d-4a2f-b75f-9f6d20e32453</webElementGuid>
+      <webElementGuid>071697e4-a3c7-41e4-b364-d9e4496bf16e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>ng-class</name>
       <type>Main</type>
       <value>{'loader-is-showing' : form.showLoader}</value>
-      <webElementGuid>d1b2d88b-c1c2-43ad-acff-79fc646cb334</webElementGuid>
+      <webElementGuid>8a6c286b-c180-483d-bc05-bbd9c1208ced</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>schema-validate</name>
       <type>Main</type>
       <value>form</value>
-      <webElementGuid>0ef7c505-f609-4d4d-a570-26dfb6fe2fc6</webElementGuid>
+      <webElementGuid>2b1d7ad1-1679-4739-8ee3-2ff518dc01b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>ng-options</name>
       <type>Main</type>
       <value>item.value as item.name group by item.group for item in form.titleMap</value>
-      <webElementGuid>c1e89eed-d245-4e45-b3e1-ae1ec92fa071</webElementGuid>
+      <webElementGuid>87065d14-00f1-4377-a52c-8c98bb238c9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>ohrm-make-element-non-pristine</name>
       <type>Main</type>
       <value>form.removePristine</value>
-      <webElementGuid>dcaba651-65e7-4c90-b1cf-81e55b932d54</webElementGuid>
+      <webElementGuid>87a7bf54-e024-4e11-8543-a5240d631667</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -125,7 +125,7 @@
       <name>name</name>
       <type>Main</type>
       <value>job_title_id</value>
-      <webElementGuid>e2dcfd06-ba0c-4bd2-b58a-10b7c89acf0a</webElementGuid>
+      <webElementGuid>e0415b27-7555-4683-b557-683b79c55eb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -133,7 +133,7 @@
       <name>text</name>
       <type>Main</type>
       <value>-- Select --Art DirectorAssistant Director-Digital MarketingAssistant Director-Regional SalesAssistant Manager - HRAssociate Support EngineerBack End DeveloperBrand ManagerBusiness Development ManagerCCOCEOCFOChief ArchitectCHROCMOComptrollerCOOCROCTOCustomer Success ManagerCustomer Support ExecutiveCustomer Support SpecalistDigital Marketing ManagerEngineer ManagerFinance ManagerFront End DeveloperHR AssistantHR DirectorHR ExecutiveHuman Resources (HR) ManagerIntern - Customer SuccessIntern - HRIntern - MarketingIntern - SalesIntern - Software DeveloperIT ExecutiveIT Technical SupportJunior QA EngineerJunior Software EngineerKey Account ManagerLead QA EngineerLead Technical Support EngineerLearning and Development CoordinatorLearning and Development DirectorLearning and Development ManagerLearning and Development SpecialistLocal Marketing ManagerMarketing ExecutivePrincipal Software EngineerProduction Co-ordinatorProduction ManagerProject ManagerQA EngineerRegional HR ManagerRegional Marketing ManagerRegional Sales DirectorRegional Sales ManagerSales Director - AmericasSales Director - APACSales Director - EuropeSales EngineerSales ExecutiveSales ManagerSales Operations ManagerSenior Brand ManagerSenior Customer Success ManagerSenior Front End DeveloperSenior HR ExecutiveSenior Lead QA EngineerSenior Lead Technical Support EngineerSenior Learning and Development ManagerSenior Manager Talent AcquisitionSenior Manager Technical SupportSenior Manager- Digital MarketingSenior Manager- Regional SalesSenior Marketing ManagerSenior Production ManagerSenior QA EngineerSenior Regional HR ManagerSenior Sales ExecutiveSenior Sales ManagerSenior SEO SpecialistSenior Software Development ManagerSenior Software EngineerSenior Technical Support EngineerSenior Technical Support ManagerSenior Vice President - Human ResourcesSenior Vice President - ProductionSenior Vice President of Talent AcquisitionSenior VP of EngineeringSenior Web DeveloperSEO ManagerSEO SpecialistSoftware ArchitectSoftware Development ManagerSoftware EngineerTalent Acquisition ManagerTechnical Support EngineerTechnical Support ManagerVice President - Human ResourcesVice President - ProductionVice President - Talent AcquisitionVice President of EngineeringVice President of Learning and Development</value>
-      <webElementGuid>f5b7efd9-dfae-47a0-b2b0-431657ed0968</webElementGuid>
+      <webElementGuid>46496994-c77f-4f0e-90e9-7a4271abc18e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;job_title_id&quot;)</value>
-      <webElementGuid>ef7fc874-dfd0-4e6c-aeff-c75536d87727</webElementGuid>
+      <webElementGuid>e25c21d3-d5b6-45c0-a850-777ba74ff476</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='job_title_id']</value>
-      <webElementGuid>e8c971f2-23b1-421e-a285-b0f9cc821067</webElementGuid>
+      <webElementGuid>aa9f9a2c-979a-4028-b9bf-dd6de1c44ca4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='employement_details_tab']/form/div/oxd-decorator/div/div[3]/div/div/select</value>
-      <webElementGuid>35d9d27b-93af-4038-9c1e-893d31283038</webElementGuid>
+      <webElementGuid>b00c8f22-aa81-4840-b383-c05f7d878322</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Title'])[1]/following::select[1]</value>
-      <webElementGuid>db31e242-b1c6-468b-bd29-21d526d3cd01</webElementGuid>
+      <webElementGuid>bf801faf-864b-4575-9fd7-148ccef64827</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,7 +173,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/following::select[1]</value>
-      <webElementGuid>271bcdd2-4df3-4c67-a876-c98f1183f792</webElementGuid>
+      <webElementGuid>0e568be8-537c-4073-82ec-5e6363e77a30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -181,7 +181,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[2]/preceding::select[1]</value>
-      <webElementGuid>dc5c2bcc-75a0-42a3-8221-03910bdd952b</webElementGuid>
+      <webElementGuid>21f50014-c545-4208-bae1-e786a2aae8cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -189,7 +189,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[3]/preceding::select[1]</value>
-      <webElementGuid>729a3c1a-ab85-4b5e-a1e9-16e846ab7697</webElementGuid>
+      <webElementGuid>b75c97d6-0637-42ef-b147-1bf914819ce7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -197,7 +197,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/select</value>
-      <webElementGuid>1ef0583b-80da-4c88-81e8-0f78d0a68fa6</webElementGuid>
+      <webElementGuid>f415fc0f-6ecc-43b1-9be4-3b009afea241</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -205,6 +205,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'job_title_id' and @name = 'job_title_id' and (text() = '-- Select --Art DirectorAssistant Director-Digital MarketingAssistant Director-Regional SalesAssistant Manager - HRAssociate Support EngineerBack End DeveloperBrand ManagerBusiness Development ManagerCCOCEOCFOChief ArchitectCHROCMOComptrollerCOOCROCTOCustomer Success ManagerCustomer Support ExecutiveCustomer Support SpecalistDigital Marketing ManagerEngineer ManagerFinance ManagerFront End DeveloperHR AssistantHR DirectorHR ExecutiveHuman Resources (HR) ManagerIntern - Customer SuccessIntern - HRIntern - MarketingIntern - SalesIntern - Software DeveloperIT ExecutiveIT Technical SupportJunior QA EngineerJunior Software EngineerKey Account ManagerLead QA EngineerLead Technical Support EngineerLearning and Development CoordinatorLearning and Development DirectorLearning and Development ManagerLearning and Development SpecialistLocal Marketing ManagerMarketing ExecutivePrincipal Software EngineerProduction Co-ordinatorProduction ManagerProject ManagerQA EngineerRegional HR ManagerRegional Marketing ManagerRegional Sales DirectorRegional Sales ManagerSales Director - AmericasSales Director - APACSales Director - EuropeSales EngineerSales ExecutiveSales ManagerSales Operations ManagerSenior Brand ManagerSenior Customer Success ManagerSenior Front End DeveloperSenior HR ExecutiveSenior Lead QA EngineerSenior Lead Technical Support EngineerSenior Learning and Development ManagerSenior Manager Talent AcquisitionSenior Manager Technical SupportSenior Manager- Digital MarketingSenior Manager- Regional SalesSenior Marketing ManagerSenior Production ManagerSenior QA EngineerSenior Regional HR ManagerSenior Sales ExecutiveSenior Sales ManagerSenior SEO SpecialistSenior Software Development ManagerSenior Software EngineerSenior Technical Support EngineerSenior Technical Support ManagerSenior Vice President - Human ResourcesSenior Vice President - ProductionSenior Vice President of Talent AcquisitionSenior VP of EngineeringSenior Web DeveloperSEO ManagerSEO SpecialistSoftware ArchitectSoftware Development ManagerSoftware EngineerTalent Acquisition ManagerTechnical Support EngineerTechnical Support ManagerVice President - Human ResourcesVice President - ProductionVice President - Talent AcquisitionVice President of EngineeringVice President of Learning and Development' or . = '-- Select --Art DirectorAssistant Director-Digital MarketingAssistant Director-Regional SalesAssistant Manager - HRAssociate Support EngineerBack End DeveloperBrand ManagerBusiness Development ManagerCCOCEOCFOChief ArchitectCHROCMOComptrollerCOOCROCTOCustomer Success ManagerCustomer Support ExecutiveCustomer Support SpecalistDigital Marketing ManagerEngineer ManagerFinance ManagerFront End DeveloperHR AssistantHR DirectorHR ExecutiveHuman Resources (HR) ManagerIntern - Customer SuccessIntern - HRIntern - MarketingIntern - SalesIntern - Software DeveloperIT ExecutiveIT Technical SupportJunior QA EngineerJunior Software EngineerKey Account ManagerLead QA EngineerLead Technical Support EngineerLearning and Development CoordinatorLearning and Development DirectorLearning and Development ManagerLearning and Development SpecialistLocal Marketing ManagerMarketing ExecutivePrincipal Software EngineerProduction Co-ordinatorProduction ManagerProject ManagerQA EngineerRegional HR ManagerRegional Marketing ManagerRegional Sales DirectorRegional Sales ManagerSales Director - AmericasSales Director - APACSales Director - EuropeSales EngineerSales ExecutiveSales ManagerSales Operations ManagerSenior Brand ManagerSenior Customer Success ManagerSenior Front End DeveloperSenior HR ExecutiveSenior Lead QA EngineerSenior Lead Technical Support EngineerSenior Learning and Development ManagerSenior Manager Talent AcquisitionSenior Manager Technical SupportSenior Manager- Digital MarketingSenior Manager- Regional SalesSenior Marketing ManagerSenior Production ManagerSenior QA EngineerSenior Regional HR ManagerSenior Sales ExecutiveSenior Sales ManagerSenior SEO SpecialistSenior Software Development ManagerSenior Software EngineerSenior Technical Support EngineerSenior Technical Support ManagerSenior Vice President - Human ResourcesSenior Vice President - ProductionSenior Vice President of Talent AcquisitionSenior VP of EngineeringSenior Web DeveloperSEO ManagerSEO SpecialistSoftware ArchitectSoftware Development ManagerSoftware EngineerTalent Acquisition ManagerTechnical Support EngineerTechnical Support ManagerVice President - Human ResourcesVice President - ProductionVice President - Talent AcquisitionVice President of EngineeringVice President of Learning and Development')]</value>
-      <webElementGuid>d7ea6dc1-6c5f-46f9-8b16-3740d25b5b60</webElementGuid>
+      <webElementGuid>b646e654-7e67-4170-bb5b-cab23f05c8df</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

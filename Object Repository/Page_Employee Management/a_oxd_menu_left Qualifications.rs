@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>30d0d128-9142-441a-be96-b0a25f1d3f1e</webElementGuid>
+      <webElementGuid>956b0814-0c66-4785-980e-729cd3e8401a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>!menu.uiSref &amp;&amp; maxLevels > 0</value>
-      <webElementGuid>ce30c490-6f5b-472c-8aea-f2806200b2ce</webElementGuid>
+      <webElementGuid>43302574-7fb1-40b8-bee0-926c13b960f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>ng-focus</name>
       <type>Main</type>
       <value>showSubmenu($index)</value>
-      <webElementGuid>7159b14f-e893-48c5-94c4-2aa28d443901</webElementGuid>
+      <webElementGuid>73af07b7-4636-4115-85c4-4e4d674573da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>ng-mouseover</name>
       <type>Main</type>
       <value>showSubmenu($index)</value>
-      <webElementGuid>596422b9-abcb-4393-b43b-be8ff1749a11</webElementGuid>
+      <webElementGuid>b14d99ef-e598-411b-bbd0-1ff9185dea8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>ng-attr-href</name>
       <type>Main</type>
       <value>{{menu.href}}</value>
-      <webElementGuid>90a327bb-2e8a-436b-9645-0ae1fa9c1997</webElementGuid>
+      <webElementGuid>c81b8e99-6e6b-4de0-96c2-668bc95f5b0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sub-menu-item-link truncate</value>
-      <webElementGuid>d28f9ec5-a374-4067-b439-761ac21c9869</webElementGuid>
+      <webElementGuid>301a4237-1e5f-4a0e-befd-f905e5e59223</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>ng-attr-target</name>
       <type>Main</type>
       <value>{{menu.target}}</value>
-      <webElementGuid>850b1714-beaf-4a44-afa7-c317a537ae0c</webElementGuid>
+      <webElementGuid>0ca7d321-2ac3-455f-9e9f-dcd6516ddf54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>data-automation-id</name>
       <type>Main</type>
       <value>more_menu_child_menu_admin_Qualifications</value>
-      <webElementGuid>b31cef49-de2e-447f-b0f5-4b08049d08a5</webElementGuid>
+      <webElementGuid>456baf55-9046-499a-9bc1-168ff27e8c1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>7bef16f0-f315-425d-bdcf-93e3ba8c5bb3</webElementGuid>
+      <webElementGuid>3771534b-b475-4a1f-b031-27f4d4b43e41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>text</name>
       <type>Main</type>
       <value>oxd_menu_left Qualifications </value>
-      <webElementGuid>9b747029-bdf3-40b7-a685-d28733e3d1cf</webElementGuid>
+      <webElementGuid>5fbfa72f-39c4-4046-bbb8-ba31a04b59ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;top-ribbon-menu&quot;)/div[@class=&quot;top-ribbon-menu-more-items&quot;]/top-level-menu-item[2]/div[@class=&quot;top-level-menu-item-container&quot;]/sub-menu-container[@class=&quot;level-1-sub-menu opened&quot;]/div[@class=&quot;sub-menu-container&quot;]/div[@class=&quot;sub-menu-item&quot;]/a[@class=&quot;sub-menu-item-link truncate&quot;]</value>
-      <webElementGuid>3b002f24-a304-4a9f-8d4a-76ec8563b016</webElementGuid>
+      <webElementGuid>46eaef22-207c-495a-adff-f918804330d9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='top-ribbon-menu']/div[3]/top-level-menu-item[2]/div/sub-menu-container/div/div[5]/a</value>
-      <webElementGuid>eddc5541-dda7-45f6-9de2-74cbb3ed6fb5</webElementGuid>
+      <webElementGuid>eb77cf44-22de-43f9-8a07-c7c3a032e588</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Competency List'])[2]/following::a[1]</value>
-      <webElementGuid>b9a5d8a3-35a4-4a22-8409-c51956875802</webElementGuid>
+      <webElementGuid>fc5f990c-bc81-49ef-92f8-61e94eea4db6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='oxd_menu_left'])[3]/following::a[2]</value>
-      <webElementGuid>83653546-da8e-404d-a004-f140f0aab299</webElementGuid>
+      <webElementGuid>c9e6e033-4928-4638-979a-7d0ecd9e8e4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills'])[2]/preceding::a[1]</value>
-      <webElementGuid>b6fc2b25-e341-4d2d-af91-38c3dc386807</webElementGuid>
+      <webElementGuid>882e70a7-bdaf-4261-b936-45d6f7082185</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//top-level-menu-item[2]/div/sub-menu-container/div/div[5]/a</value>
-      <webElementGuid>073252fd-bc96-489b-8675-f8542cadd1e8</webElementGuid>
+      <webElementGuid>60c96ccc-ba69-470f-992e-4d57fb75da85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'oxd_menu_left Qualifications ' or . = 'oxd_menu_left Qualifications ')]</value>
-      <webElementGuid>6c278b07-4c92-440a-b2c3-9d8df884e85d</webElementGuid>
+      <webElementGuid>9713b820-16c5-4222-8023-ec54e8bbb72c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -6,19 +6,19 @@
    <elementGuidId>c3487782-bbcb-4297-8baf-b5f9497299e7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>i.material-icons.action-icon.date-picker-open-icon</value>
+         <key>XPATH</key>
+         <value>//form[@id='pimPersonalDetailsForm']/materializecss-decorator[5]/div/sf-decorator[3]/div/span/span/i</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//form[@id='pimPersonalDetailsForm']/materializecss-decorator[4]/div/sf-decorator/div/span/span/i</value>
+         <key>CSS</key>
+         <value>sf-decorator:nth-of-type(3) > div[name=&quot;dateForm&quot;] > span.hidden-date-widget > span > i.material-icons.action-icon.date-picker-open-icon</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>sf-decorator >> internal:has-text=&quot;Date of Birth MondayApr292024JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptember&quot;i >> i</value>
+         <value>sf-decorator >> internal:has-text=&quot;License Expiry Date TuesdayApr302024JanuaryFebruaryMarchAprilMayJuneJulyAugustSe&quot;i >> i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>92a2b07d-ee62-485f-9ce6-12b4ad31cc0c</webElementGuid>
+      <webElementGuid>48b6ab03-46bc-44c6-9627-6d7ff1404e66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons action-icon date-picker-open-icon</value>
-      <webElementGuid>eb4c588e-1bfe-4740-83bd-01f98956bf68</webElementGuid>
+      <webElementGuid>d5c0b019-46a2-4283-857b-82130e36f358</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>ng-class</name>
       <type>Main</type>
       <value>{disabled: form.readonly}</value>
-      <webElementGuid>61e20a74-f0a4-4f94-8d02-b86b347696da</webElementGuid>
+      <webElementGuid>e7f5c28b-6ca5-492b-be22-b9b328a65159</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,18 +53,74 @@
       <name>text</name>
       <type>Main</type>
       <value>date_range</value>
-      <webElementGuid>1ad1af01-64f7-4eda-b12c-92ebbd207ecf</webElementGuid>
+      <webElementGuid>832d8649-bf5f-4626-acb2-f41f15e58b74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;pimPersonalDetailsForm&quot;)/materializecss-decorator[4]/div[@class=&quot;schema-form-section row&quot;]/sf-decorator[1]/div[@class=&quot;input-field col s12 m12 l4 ng-valid-pattern ng-valid-display-input-validity ng-valid-schema-form ng-valid-date-range&quot;]/span[@class=&quot;hidden-date-widget&quot;]/span[1]/i[@class=&quot;material-icons action-icon date-picker-open-icon&quot;]</value>
-      <webElementGuid>0ebc421c-0afc-4f8b-95ff-701320f068e9</webElementGuid>
+      <value>id(&quot;pimPersonalDetailsForm&quot;)/materializecss-decorator[5]/div[@class=&quot;schema-form-section row&quot;]/sf-decorator[3]/div[@class=&quot;input-field col s12 m12 l4 ng-valid-pattern ng-valid-display-input-validity ng-valid-schema-form ng-valid-date-range&quot;]/span[@class=&quot;hidden-date-widget&quot;]/span[1]/i[@class=&quot;material-icons action-icon date-picker-open-icon&quot;]</value>
+      <webElementGuid>1711e33f-e92d-49bd-855b-f7dddfa2e6e4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='pimPersonalDetailsForm']/materializecss-decorator[5]/div/sf-decorator[3]/div/span/span/i</value>
+      <webElementGuid>dda05b69-b2f6-48d4-aecf-a9d6f017b26e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/following::i[1]</value>
+      <webElementGuid>bffacf60-5e7b-47d5-9347-3fc7f561d147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[2]/following::i[1]</value>
+      <webElementGuid>322fa292-9f87-4e21-a4bc-c736fb725d60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expected format: yyyy-mm-dd'])[2]/preceding::i[1]</value>
+      <webElementGuid>42629288-ba2d-4164-8879-1f204f8776a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required'])[2]/preceding::i[1]</value>
+      <webElementGuid>8c8e7cbe-81dc-46e1-9966-ef1ed313d803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sf-decorator[3]/div/span/span/i</value>
+      <webElementGuid>5d09c3a8-66c8-4cc8-a62a-f3e60b28d6b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'date_range' or . = 'date_range')]</value>
+      <webElementGuid>70b57753-1460-437c-b5b3-df11123b6e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -118,13 +174,5 @@
       <type>Main</type>
       <value>//span/i</value>
       <webElementGuid>229f172a-b090-4a83-a571-7074b19bb90d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//i[(text() = 'date_range' or . = 'date_range')]</value>
-      <webElementGuid>d3c0bec3-e8d5-4827-9e6e-f2c324c94815</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

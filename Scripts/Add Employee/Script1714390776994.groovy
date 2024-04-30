@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/Page_Employee Management/i_add'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Employee Management/input__first-name-box'), 'Frank')
 
-WebUI.setText(findTestObject('Object Repository/Page_Employee Management/input__last-name-box'), 'Aaron')
+WebUI.setText(findTestObject('Object Repository/Page_Employee Management/input__last-name-box'), 'Aaron1')
 
 WebUI.click(findTestObject('Object Repository/Page_Employee Management/i_arrow_drop_down'))
 

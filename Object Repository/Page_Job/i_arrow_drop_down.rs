@@ -6,19 +6,19 @@
    <elementGuidId>3e047d41-ea99-4032-952a-a57e3d678d1d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='employement_details_tab']/form/div/oxd-decorator/div/div[4]/div/div[2]/div/button/i[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='employement_details_tab']/form/div/oxd-decorator/div/div[3]/div/div[2]/div/button/i[2]</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>div:nth-child(3) > .input-group-append > .btn >> nth=0</value>
+         <value>div:nth-child(4) > .input-group > .input-group-append-container > .input-group-append > .btn</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>6ce9a1d0-8696-48e6-a917-c8e18a466f04</webElementGuid>
+      <webElementGuid>4b362767-72d7-4dc9-9506-17737866600d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons</value>
-      <webElementGuid>096f2481-193e-48ad-90fc-978cc4b53bd0</webElementGuid>
+      <webElementGuid>bfb71ef4-c8bf-43ba-ab7b-cb343fa07649</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,18 +45,74 @@
       <name>text</name>
       <type>Main</type>
       <value>arrow_drop_down</value>
-      <webElementGuid>bf9f8e9b-e240-4900-9e99-ae096d8da475</webElementGuid>
+      <webElementGuid>d676a604-458e-4793-a8d8-b27316dc0f8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;employement_details_tab&quot;)/form[@class=&quot;with-standard-section-attached ng-valid ng-valid-schema-form ng-valid-pattern ng-valid-display-input-validity ng-valid-date-range ng-valid-maxlength ng-dirty ng-valid-date-validator ng-valid-date&quot;]/div[1]/oxd-decorator[1]/div[@class=&quot;form-row&quot;]/div[@class=&quot;form-group col-4&quot;]/div[@class=&quot;input-group form-select&quot;]/div[@class=&quot;input-group-append-container&quot;]/div[@class=&quot;input-group-append&quot;]/button[@class=&quot;btn&quot;]/i[@class=&quot;material-icons&quot;]</value>
-      <webElementGuid>03c17fc2-e729-4548-a07a-563023c029ef</webElementGuid>
+      <value>id(&quot;employement_details_tab&quot;)/form[@class=&quot;with-standard-section-attached ng-pristine ng-valid ng-valid-schema-form ng-valid-pattern ng-valid-display-input-validity ng-valid-date-range ng-valid-maxlength&quot;]/div[1]/oxd-decorator[1]/div[@class=&quot;form-row&quot;]/div[@class=&quot;form-group col-4&quot;]/div[@class=&quot;input-group form-select&quot;]/div[@class=&quot;input-group-append-container&quot;]/div[@class=&quot;input-group-append&quot;]/button[@class=&quot;btn&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>368ba129-354e-4c36-bd7d-83ffe837ab38</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='employement_details_tab']/form/div/oxd-decorator/div/div[4]/div/div[2]/div/button/i[2]</value>
+      <webElementGuid>9f62606b-ec1c-4b13-a229-cb1ec9477672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Part-Time Regular'])[2]/following::i[2]</value>
+      <webElementGuid>f980f852-14aa-4e79-a75d-e04ff2b3efd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Part-Time Permanent'])[2]/following::i[2]</value>
+      <webElementGuid>dbd20b12-5d54-471f-82e5-2db6159fca54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Specification'])[1]/preceding::i[1]</value>
+      <webElementGuid>7ea4fd99-7686-42ee-b5f5-56544e0c2478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Defined'])[1]/preceding::i[1]</value>
+      <webElementGuid>d4be6304-a059-4a82-a1fa-564c83105aea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/button/i[2]</value>
+      <webElementGuid>17ff09ea-8161-4a37-a308-17abf187875d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'arrow_drop_down' or . = 'arrow_drop_down')]</value>
+      <webElementGuid>31bf697f-930c-4d89-8d9d-e08d9c40d7cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -102,13 +158,5 @@
       <type>Main</type>
       <value>//i[2]</value>
       <webElementGuid>c9f11097-f868-4cc9-953f-6b7e03db1198</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//i[(text() = 'arrow_drop_down' or . = 'arrow_drop_down')]</value>
-      <webElementGuid>e24b1b5c-8471-4770-8f51-bab37e0bd647</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

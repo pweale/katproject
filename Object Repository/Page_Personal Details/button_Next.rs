@@ -6,12 +6,12 @@
    <elementGuidId>7435337b-27c6-4e84-85be-b63655720d20</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-secondary.right</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-secondary.right</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fd612413-06fd-4914-b892-8ff9f05fbebd</webElementGuid>
+      <webElementGuid>4b6f71ad-f186-47c1-a939-f1684a82a5cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>ng-show</name>
       <type>Main</type>
       <value>!vm.showFinishButton</value>
-      <webElementGuid>6c4f60d2-f50e-49db-b5c6-132622c4bc04</webElementGuid>
+      <webElementGuid>949c5070-d940-4c2f-95ec-3dbe9706a564</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-secondary right</value>
-      <webElementGuid>d2362790-bd8f-407a-be78-5bd5dcef08a9</webElementGuid>
+      <webElementGuid>14084263-b992-48c0-ab55-22c5d578ae79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b358697f-7c29-4e7a-953f-74b57c580c1e</webElementGuid>
+      <webElementGuid>7b9736b3-158a-46d1-b9f9-6aa1bd724d5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>ng-class</name>
       <type>Main</type>
       <value>{disabled: !vm.canSubmitForm}</value>
-      <webElementGuid>2e6d5c8c-04b9-4629-9708-592a6a6b6634</webElementGuid>
+      <webElementGuid>24fb505d-4f88-413e-abd0-ec44f646b027</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>vm.onNextStep()</value>
-      <webElementGuid>e6831bf4-c46e-4126-868b-cf79804ac0f9</webElementGuid>
+      <webElementGuid>3cf8afb1-ced0-4284-989b-17563a9faacf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>translate</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>f38b0225-4747-4cb7-a19d-64ad821d94a1</webElementGuid>
+      <webElementGuid>fe95366b-ae1c-470a-b319-d64df153a976</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>0e319b7e-866e-497f-bcbe-17e6dc1e85ed</webElementGuid>
+      <webElementGuid>ee14d20f-7fdb-41f0-9645-133fd9be5a64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wizard-nav-button-section&quot;)/button[@class=&quot;btn btn-secondary right&quot;]</value>
-      <webElementGuid>70050d9c-73d1-40a1-9587-70ed9f33090c</webElementGuid>
+      <webElementGuid>66ed8453-9180-4ee8-b3c7-a36f5dec2507</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[8]</value>
-      <webElementGuid>9d6d2cc8-49fd-4194-b2e2-04b93cf1c5a2</webElementGuid>
+      <webElementGuid>10e1c09b-36d6-45c0-951d-70501bc46221</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wizard-nav-button-section']/button[2]</value>
-      <webElementGuid>de828df3-93f4-435b-a9bf-58bde333fb65</webElementGuid>
+      <webElementGuid>5e4e8aa8-2628-4486-ab79-3879f52d0d29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prev'])[1]/following::button[1]</value>
-      <webElementGuid>b90ceb4f-7c09-47ae-8844-fc476cbd0a44</webElementGuid>
+      <webElementGuid>b1b993e1-e88d-460d-8208-f3d0fc545d21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::button[2]</value>
-      <webElementGuid>74a69ba7-f1ef-4a06-bf43-d8c0a54cf3a9</webElementGuid>
+      <webElementGuid>4f7e7308-c6ae-4c73-810c-20131f79b400</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::button[1]</value>
-      <webElementGuid>a4eb7a1b-65de-4fb0-9685-72c8dd18cee0</webElementGuid>
+      <webElementGuid>2f27bd9d-b01e-4860-a9c6-27acb6eca6ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
-      <webElementGuid>6538ea4a-90f0-494d-882c-abb98d43a853</webElementGuid>
+      <webElementGuid>d84e0721-972d-458d-9f55-8a60fd11c200</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button[2]</value>
-      <webElementGuid>45a06f8d-f9bf-44a7-aa69-8b3ef0784646</webElementGuid>
+      <webElementGuid>6bcc5883-588c-45d0-8682-687dbefd6568</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>6b8493fc-1d7d-4ede-a3cc-ec53d2571b8a</webElementGuid>
+      <webElementGuid>9f908861-186c-4899-ab24-7559a8db6bb9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

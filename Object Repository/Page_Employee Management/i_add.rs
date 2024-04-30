@@ -6,12 +6,12 @@
    <elementGuidId>3ff6927e-775c-4f89-acd3-3c6bb687553d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#addEmployeeButton > i.material-icons</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@id='addEmployeeButton']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#addEmployeeButton > i.material-icons</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>c577c3a5-3277-450f-8701-49e113f1d454</webElementGuid>
+      <webElementGuid>98e5973d-dec0-436f-89dd-0bd737da5a09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons</value>
-      <webElementGuid>553e600d-c240-4b22-baa0-570617931dfc</webElementGuid>
+      <webElementGuid>806e2581-e2c2-4808-84dc-93b5f2200abf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>add</value>
-      <webElementGuid>495e2e2d-0faf-4935-ae57-c30f015a1c92</webElementGuid>
+      <webElementGuid>1102892e-9548-4718-8d19-eae5a1845366</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;addEmployeeButton&quot;)/i[@class=&quot;material-icons&quot;]</value>
-      <webElementGuid>acc91f27-669e-4a6a-9a8d-ef5c2686208f</webElementGuid>
+      <webElementGuid>9cccc9ed-8f03-48d4-9eb4-98e974875409</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='addEmployeeButton']/i</value>
-      <webElementGuid>09cd5cd8-8140-4340-bd5e-5d3841cc5304</webElementGuid>
+      <webElementGuid>7a1faf05-b850-4488-939d-fe84f8bae781</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_right'])[1]/following::i[1]</value>
-      <webElementGuid>e446e359-b5c4-421c-a871-64feefd29b28</webElementGuid>
+      <webElementGuid>e4d66b11-613a-4145-8a3e-0dfe03d1c537</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='▼'])[1]/following::i[2]</value>
-      <webElementGuid>4f916781-bd52-4480-bb1f-a85db7bdd84a</webElementGuid>
+      <webElementGuid>68631976-c982-40c7-b4e1-bf64365f493b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Employee'])[1]/preceding::i[1]</value>
-      <webElementGuid>a6af129c-28cf-466c-a757-4b7945b80dfe</webElementGuid>
+      <webElementGuid>bd2fd238-ac92-4bd9-a8da-2414d06f351e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='add']/parent::*</value>
-      <webElementGuid>4083c5c5-f082-4085-8cf4-b5130c92130f</webElementGuid>
+      <webElementGuid>07ce33fd-438f-46f3-8c0d-955029ac4fd0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ui-view/div/div/div/div/div/a/i</value>
-      <webElementGuid>058a457c-a34a-4bc0-98b5-44a29f20665d</webElementGuid>
+      <webElementGuid>b9c6b45b-96f3-4c66-ac6f-982b7fbe9687</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[(text() = 'add' or . = 'add')]</value>
-      <webElementGuid>04da3370-9c69-4a39-8fc1-0843d3815e13</webElementGuid>
+      <webElementGuid>2873221f-c368-4884-ac3b-1dd50625c876</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

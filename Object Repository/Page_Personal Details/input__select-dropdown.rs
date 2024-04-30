@@ -6,19 +6,19 @@
    <elementGuidId>9d9b0ed7-73c3-4ba6-b132-2a3386406595</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.select-wrapper.picker__select--year > input.select-dropdown</value>
+         <key>XPATH</key>
+         <value>//input[@value='2024']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@value='2023']</value>
+         <key>CSS</key>
+         <value>div.select-wrapper.picker__select--year > input.select-dropdown</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#P2050049110_root >> internal:role=textbox >> nth=1</value>
+         <value>#P128362100_root >> internal:role=textbox >> nth=1</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0f9915d7-6401-4020-bfa1-92e396c60ad7</webElementGuid>
+      <webElementGuid>3cda5857-71a4-4918-bda5-288a28521436</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b7634ee9-bec8-4469-9a25-2819e1c31a3e</webElementGuid>
+      <webElementGuid>5b7697ed-5074-411f-a57a-72d855e0b6b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select-dropdown</value>
-      <webElementGuid>c0133c24-a787-422d-83e8-de972dca6a22</webElementGuid>
+      <webElementGuid>4dca6999-72a5-450d-a45c-d295a6817442</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,34 +53,66 @@
       <name>readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>cb5062c0-9c6c-42dd-82cd-ed6309c75e2f</webElementGuid>
+      <webElementGuid>2e7664ba-6dcf-4460-8a12-edd5ea61f527</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-activates</name>
       <type>Main</type>
-      <value>select-options-7aa25883-8578-51dd-4f68-d511f26cca33</value>
-      <webElementGuid>9a67e82b-abc8-41b3-b829-f7ae35a74138</webElementGuid>
+      <value>select-options-db3f741e-9254-9ef3-6429-bb9eaaf9c09c</value>
+      <webElementGuid>08aaaa08-d038-45dc-97b2-f49b79a91bf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>2023</value>
-      <webElementGuid>8a35c9e0-5628-48df-95ec-0fe38df7c760</webElementGuid>
+      <value>2024</value>
+      <webElementGuid>4a859d1b-32b4-409e-ad80-a0a7eb933b98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P2050049110_root&quot;)/div[@class=&quot;picker__holder&quot;]/div[@class=&quot;picker__frame&quot;]/div[@class=&quot;picker__wrap&quot;]/div[@class=&quot;picker__box&quot;]/div[@class=&quot;picker__calendar-container&quot;]/div[@class=&quot;picker__header&quot;]/div[@class=&quot;select-wrapper picker__select--year&quot;]/input[@class=&quot;select-dropdown&quot;]</value>
-      <webElementGuid>1ea85644-a737-4132-a304-5da07a8ea12d</webElementGuid>
+      <value>id(&quot;P128362100_root&quot;)/div[@class=&quot;picker__holder&quot;]/div[@class=&quot;picker__frame&quot;]/div[@class=&quot;picker__wrap&quot;]/div[@class=&quot;picker__box&quot;]/div[@class=&quot;picker__calendar-container&quot;]/div[@class=&quot;picker__header&quot;]/div[@class=&quot;select-wrapper picker__select--year&quot;]/input[@class=&quot;select-dropdown&quot;]</value>
+      <webElementGuid>9c7cecc3-aa1e-4c96-b6bc-b7738bf0e233</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='2024']</value>
+      <webElementGuid>203097ee-0546-497f-8e61-4c1fb5a58bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P128362100_root']/div/div/div/div/div[2]/div/div[2]/input</value>
+      <webElementGuid>507a0ae7-7155-4b3a-b56f-bafc8ff6f161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/input</value>
+      <webElementGuid>3bdaa66b-5be3-4779-bf8b-d7164f473058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>c7ec8047-dc29-45e8-8915-34659572fd9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -94,21 +126,5 @@
       <type>Main</type>
       <value>//div[@id='P2050049110_root']/div/div/div/div/div[2]/div/div[2]/input</value>
       <webElementGuid>9e3089be-453e-4a16-ad11-1b6ea7fe46d6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div/div[2]/input</value>
-      <webElementGuid>690921d7-3522-4466-a5d6-065de321a820</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text']</value>
-      <webElementGuid>1abef470-17f6-4792-b962-7b86fe802748</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,19 +6,19 @@
    <elementGuidId>3d11053b-8155-4240-ac33-e471506ea9d6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#P1552954971_table > tbody > tr:nth-of-type(5) > td:nth-of-type(6) > div.picker__day.picker__day--infocus</value>
+         <key>XPATH</key>
+         <value>//table[@id='P962099229_table']/tbody/tr[5]/td[3]/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='P1552954971_table']/tbody/tr[5]/td[6]/div</value>
+         <key>CSS</key>
+         <value>#P962099229_table > tbody > tr:nth-of-type(5) > td:nth-of-type(3) > div.picker__day.picker__day--infocus.picker__day--today.picker__day--highlighted</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;2027-04-30&quot;i</value>
+         <value>internal:role=row[name=&quot;2024-04-28 2024-04-29 2024-04-30&quot;i] >> internal:label=&quot;2024-04-30&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>09c82068-92ba-4ffc-8caa-d41478bbd690</webElementGuid>
+      <webElementGuid>2f5d1058-c4c8-458e-ad24-74c913b970f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>picker__day picker__day--infocus</value>
-      <webElementGuid>c34c33b9-f19f-4e32-baf9-c6f706b9f1d8</webElementGuid>
+      <value>picker__day picker__day--infocus picker__day--today picker__day--highlighted</value>
+      <webElementGuid>064d8792-a1c6-46d7-a266-f9562fecb7c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-pick</name>
       <type>Main</type>
-      <value>1809054000000</value>
-      <webElementGuid>e9f7f9f1-bc6b-4e0e-829f-085ae8ad9c91</webElementGuid>
+      <value>1714446000000</value>
+      <webElementGuid>438d02a1-021d-49b0-ba12-beb900798915</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +53,15 @@
       <name>role</name>
       <type>Main</type>
       <value>gridcell</value>
-      <webElementGuid>1d62d73a-c9d3-4c89-bf64-7496d217db8c</webElementGuid>
+      <webElementGuid>991e1bbe-3b8f-488c-845f-8ad919e7a1e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>2027-04-30</value>
-      <webElementGuid>b0b8064b-8837-49e2-8f38-98df21453809</webElementGuid>
+      <value>2024-04-30</value>
+      <webElementGuid>6a1e2716-7cdd-4154-81bb-2e15f3f70683</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,18 +69,82 @@
       <name>text</name>
       <type>Main</type>
       <value>30</value>
-      <webElementGuid>e19979b1-bfdd-4fb9-8e59-1cd8d66eb1d6</webElementGuid>
+      <webElementGuid>6aab47f0-110c-4e35-85ae-58297f9aa448</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P1552954971_table&quot;)/tbody[1]/tr[5]/td[6]/div[@class=&quot;picker__day picker__day--infocus&quot;]</value>
-      <webElementGuid>fc952ed1-0f52-4e89-8643-945e9659c16b</webElementGuid>
+      <value>id(&quot;P962099229_table&quot;)/tbody[1]/tr[5]/td[3]/div[@class=&quot;picker__day picker__day--infocus picker__day--today picker__day--highlighted&quot;]</value>
+      <webElementGuid>3343f0d5-32e3-4f6d-955c-2ddfd97bcfa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-activedescendant</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8adf90e0-bc60-4ce1-9cfd-b9c6b0921ed2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='P962099229_table']/tbody/tr[5]/td[3]/div</value>
+      <webElementGuid>29ae72fb-811c-46ae-bce7-c51380ccebf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[6]/following::div[31]</value>
+      <webElementGuid>ca2aedcf-27eb-4fdf-9240-db2074377980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[3]/following::div[31]</value>
+      <webElementGuid>073d9f82-eb02-464d-9cb1-1890f2eb6e1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[3]/preceding::div[12]</value>
+      <webElementGuid>8837e9cc-4bd5-43f8-ae0b-119ed05c62db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[3]/preceding::div[12]</value>
+      <webElementGuid>8a7b0012-5d78-4ee1-a376-5516523bddfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//oxd-decorator[6]/div/div/div[2]/div[6]/div/div/div/div/div[2]/table/tbody/tr[5]/td[3]/div</value>
+      <webElementGuid>1599afdd-3e1d-4c98-b781-070621566385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '30' or . = '30')]</value>
+      <webElementGuid>aebfe5bd-d94f-4b3f-b22d-5beceb6e27a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -126,13 +190,5 @@
       <type>Main</type>
       <value>//oxd-decorator[6]/div/div[2]/div[2]/div[6]/div/div/div/div/div[2]/table/tbody/tr[5]/td[6]/div</value>
       <webElementGuid>f8038b2b-5f28-4933-8401-f1a5d539c05e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = '30' or . = '30')]</value>
-      <webElementGuid>3c3fd86c-649f-4a02-8918-75877522e6f3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

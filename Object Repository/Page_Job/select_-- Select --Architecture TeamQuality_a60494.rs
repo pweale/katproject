@@ -6,12 +6,12 @@
    <elementGuidId>d9be5dc7-7574-4a1c-840a-e3f0583e12d9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#subunit_id</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='subunit_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#subunit_id</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>1bae8336-4aca-4574-b8c8-08c1a0c7447b</webElementGuid>
+      <webElementGuid>c8e431df-b7f0-4f83-a27b-0d38ac681632</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>!form.translate</value>
-      <webElementGuid>5386562e-3066-4ad7-bbdc-045fd7d8a2ad</webElementGuid>
+      <webElementGuid>d355632f-df2f-44d5-9157-11989e891cd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>subunit_id</value>
-      <webElementGuid>db9aa7f2-e0f1-490e-96ab-f99d985d7e44</webElementGuid>
+      <webElementGuid>493f80e6-c67e-462b-8072-c670a22134e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>model['subunit_id']</value>
-      <webElementGuid>29af4caa-a9b5-45d4-bb9c-dc4ca4a05b73</webElementGuid>
+      <webElementGuid>2d234052-65f3-4bdb-bf89-c863d1e1b1d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>ng-model-options</name>
       <type>Main</type>
       <value>form.ngModelOptions</value>
-      <webElementGuid>deeebb6a-e529-439f-8075-af41e7c3fd4e</webElementGuid>
+      <webElementGuid>4a00511a-bbe1-4255-8d2c-4c87b9d71216</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>ng-disabled</name>
       <type>Main</type>
       <value>form.readonly</value>
-      <webElementGuid>cd0fde49-df9c-41e5-89e1-47f8b3982a58</webElementGuid>
+      <webElementGuid>3148f449-73bf-473e-92a7-9d05703d71a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>sf-changed</name>
       <type>Main</type>
       <value>form</value>
-      <webElementGuid>c719633f-cf12-4d08-ae62-824934198303</webElementGuid>
+      <webElementGuid>c39be856-d721-4f50-a949-9d6f5b44abcc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select-dropdown</value>
-      <webElementGuid>b5e124bf-bac3-4733-97bd-81930e3d665b</webElementGuid>
+      <webElementGuid>1b531f0c-ef34-4a4d-a873-b2351845fc05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>ng-class</name>
       <type>Main</type>
       <value>{'loader-is-showing' : form.showLoader}</value>
-      <webElementGuid>457ea4b0-d9f3-4f0f-95ec-42f67731636e</webElementGuid>
+      <webElementGuid>63d58c63-21bd-42de-8751-11112253e733</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>schema-validate</name>
       <type>Main</type>
       <value>form</value>
-      <webElementGuid>bd8e9ac7-a449-43ab-980a-6797110209ad</webElementGuid>
+      <webElementGuid>d131e142-0616-421d-adbb-b942776b0d14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>ng-options</name>
       <type>Main</type>
       <value>item.value as item.name group by item.group for item in form.titleMap</value>
-      <webElementGuid>05eb9c63-6d94-4e91-b96d-70428adb281b</webElementGuid>
+      <webElementGuid>2e7ea320-f0e1-433f-9fff-ac1dfd7d00be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>ohrm-make-element-non-pristine</name>
       <type>Main</type>
       <value>form.removePristine</value>
-      <webElementGuid>25905190-3ced-4c4d-b2c6-2bdb67cfb95b</webElementGuid>
+      <webElementGuid>113df61d-6c73-425d-99dc-0e086d3938bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -125,7 +125,7 @@
       <name>name</name>
       <type>Main</type>
       <value>subunit_id</value>
-      <webElementGuid>54b02ae3-416f-48b5-95c5-6adb01aca0b7</webElementGuid>
+      <webElementGuid>537a6380-be86-4505-98a6-2c649a94f369</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -133,7 +133,7 @@
       <name>text</name>
       <type>Main</type>
       <value>-- Select --Architecture TeamQuality assurance (QA)EngineeringFinanceSalesHuman ResourcesInformation TechnologyTechnical SupportMarketingProductionCustomer SuccessProduct and Training</value>
-      <webElementGuid>dd4994f3-e408-40ac-8283-b0049af78843</webElementGuid>
+      <webElementGuid>cbd27046-6523-4c5a-92c2-84fa881ffa08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;subunit_id&quot;)</value>
-      <webElementGuid>7068536b-a25f-41db-bdd8-8ed741fe833b</webElementGuid>
+      <webElementGuid>296ff4d6-b7c5-43e0-a376-756e81d9da19</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='subunit_id']</value>
-      <webElementGuid>0ff5953c-d753-4a90-81c5-f6815b744cdb</webElementGuid>
+      <webElementGuid>96cb4ca7-6cc1-42e1-a29f-2b242e126223</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='employement_details_tab']/form/div/oxd-decorator/div/div[8]/div/div/select</value>
-      <webElementGuid>d202ef5e-8f52-48cd-9892-31f745ad6177</webElementGuid>
+      <webElementGuid>9b249c8e-c699-4631-9595-7842438d1972</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Unit'])[1]/following::select[1]</value>
-      <webElementGuid>194a0716-6d27-4c08-a5de-80663ce630e6</webElementGuid>
+      <webElementGuid>e130d1f7-4d16-476d-9ed4-081f77f53d34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,7 +173,39 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='arrow_drop_down'])[4]/following::select[1]</value>
-      <webElementGuid>11e4d6c0-1cac-4852-b5fd-198df6b2253f</webElementGuid>
+      <webElementGuid>58aadeee-e16d-4db4-9c33-ff2de75a7775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[10]/preceding::select[1]</value>
+      <webElementGuid>dc3d1ae8-f019-4044-8bc4-8a82b81ed80f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[11]/preceding::select[1]</value>
+      <webElementGuid>a433b228-16a2-4e35-9a07-0e5e845d8843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/select</value>
+      <webElementGuid>09fa19b1-b580-4e76-bc6b-d29b7d367a03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'subunit_id' and @name = 'subunit_id' and (text() = '-- Select --Architecture TeamQuality assurance (QA)EngineeringFinanceSalesHuman ResourcesInformation TechnologyTechnical SupportMarketingProductionCustomer SuccessProduct and Training' or . = '-- Select --Architecture TeamQuality assurance (QA)EngineeringFinanceSalesHuman ResourcesInformation TechnologyTechnical SupportMarketingProductionCustomer SuccessProduct and Training')]</value>
+      <webElementGuid>871b5d9a-4e3e-483c-8ca0-472bccbbb048</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,21 +222,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[9]/preceding::select[1]</value>
       <webElementGuid>0d89f575-8758-4462-a446-3829fbc2f13f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[8]/div/div/select</value>
-      <webElementGuid>fc9f9c03-1078-4e58-933a-38a351ea5e44</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//select[@id = 'subunit_id' and @name = 'subunit_id' and (text() = '-- Select --Architecture TeamQuality assurance (QA)EngineeringFinanceSalesHuman ResourcesInformation TechnologyTechnical SupportMarketingProductionCustomer SuccessProduct and Training' or . = '-- Select --Architecture TeamQuality assurance (QA)EngineeringFinanceSalesHuman ResourcesInformation TechnologyTechnical SupportMarketingProductionCustomer SuccessProduct and Training')]</value>
-      <webElementGuid>eef18075-1515-4fd5-9e27-c95a558e0910</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

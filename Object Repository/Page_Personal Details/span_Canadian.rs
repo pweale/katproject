@@ -6,12 +6,12 @@
    <elementGuidId>1f319a9c-0361-4f25-9e3d-4cdec3983ae9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#select-options-245d1bc2-2763-d5e6-d810-79f54a555eec > li:nth-of-type(36) > span</value>
+         <key>XPATH</key>
+         <value>//ul[@id='select-options-65ccbf99-043a-d1cc-460e-4abeb03e6ba3']/li[36]/span</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//ul[@id='select-options-245d1bc2-2763-d5e6-d810-79f54a555eec']/li[36]/span</value>
+         <key>CSS</key>
+         <value>li:nth-of-type(36) > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4d2a0cc1-0879-49fe-86c1-74fee55e88fa</webElementGuid>
+      <webElementGuid>1bf80cfc-f82e-45e6-aadc-e81f5c6db3db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,18 +37,82 @@
       <name>text</name>
       <type>Main</type>
       <value>Canadian</value>
-      <webElementGuid>5fe8871f-49d6-4c6c-a94c-08353e5ce885</webElementGuid>
+      <webElementGuid>d252c5ae-0535-458d-94ca-adeaa4d1a6e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;select-options-245d1bc2-2763-d5e6-d810-79f54a555eec&quot;)/li[36]/span[1]</value>
-      <webElementGuid>2d4ea62e-62ae-4b62-b712-59cace2a59dc</webElementGuid>
+      <value>id(&quot;select-options-65ccbf99-043a-d1cc-460e-4abeb03e6ba3&quot;)/li[36]/span[1]</value>
+      <webElementGuid>4e015377-6e1c-453b-a6c8-6c6d86126978</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select-options-65ccbf99-043a-d1cc-460e-4abeb03e6ba3']/li[36]/span</value>
+      <webElementGuid>45d1d215-8cfa-4c7b-8a94-15eaca168166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cameroonian'])[1]/following::span[1]</value>
+      <webElementGuid>78a2c675-eb24-4b3b-a0b2-584af6a774f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cambodian'])[1]/following::span[2]</value>
+      <webElementGuid>729d3efb-85fd-44d9-8aa9-9cdad5edf684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cape Verdean'])[1]/preceding::span[1]</value>
+      <webElementGuid>3ba2712a-c50b-42e2-98c0-be9e53482a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Central African'])[1]/preceding::span[2]</value>
+      <webElementGuid>bd243c8f-3a31-44f6-95f4-77cddfeeb72a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Canadian']/parent::*</value>
+      <webElementGuid>9871d1a0-4ef2-4f73-9c89-12bdc48b15b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[36]/span</value>
+      <webElementGuid>99abbd58-7ab8-4044-93df-c359f17155ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Canadian' or . = 'Canadian')]</value>
+      <webElementGuid>00413689-3809-4169-8a3c-c3eca8e997a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -58,57 +122,9 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cameroonian'])[1]/following::span[1]</value>
-      <webElementGuid>ef9bd782-ef60-4532-9fcc-c27a136d0f40</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cambodian'])[1]/following::span[2]</value>
-      <webElementGuid>737e9102-8cdf-4aba-9508-c0597a084920</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cape Verdean'])[1]/preceding::span[1]</value>
-      <webElementGuid>e9a8f75b-b79f-492d-b18b-e5fafb794bc9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Central African'])[1]/preceding::span[2]</value>
-      <webElementGuid>8295bf30-906f-48f5-8aa1-4b30ac54b057</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Canadian']/parent::*</value>
-      <webElementGuid>ffd81f95-4e44-498a-9c87-3b64cde3e1d1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//sf-decorator/div/div/ul/li[36]/span</value>
       <webElementGuid>e2ecbc6b-7321-496e-8947-509a36f81930</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = 'Canadian' or . = 'Canadian')]</value>
-      <webElementGuid>41384f00-aa3b-4d18-9de3-d98e3b7410d8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Next</name>
+   <name>button_Close</name>
    <tag></tag>
-   <elementGuidId>700329fe-89d0-402c-bf75-39a97eb448e9</elementGuidId>
+   <elementGuidId>afc49c52-bfeb-4373-be2c-eec38175966f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='modal-save-button']</value>
+         <value>(//button[@type='button'])[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#modal-save-button</value>
+         <value>button.btn-flat.picker__close</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Next&quot;i]</value>
+         <value>internal:role=button[name=&quot;Close&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>51e85b82-e730-4ac2-9d8d-d2c015d20732</webElementGuid>
+      <webElementGuid>72e6166a-5a18-4ea6-82e0-d75081e014cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-flat picker__close</value>
+      <webElementGuid>fdcdcb91-7867-45e6-b9f4-fb816307cda7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,142 +45,110 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>51e969d8-e24d-4d92-a0ed-2b665927e553</webElementGuid>
+      <webElementGuid>cef06606-2db4-4474-92df-b4fcb80b0330</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>data-close</name>
       <type>Main</type>
-      <value>btn btn-secondary</value>
-      <webElementGuid>eab3af1a-5003-42a2-8927-29676327186e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>modal-save-button</value>
-      <webElementGuid>84c7f811-bbb8-4107-9cd8-0f0b8843699e</webElementGuid>
+      <value>true</value>
+      <webElementGuid>00166045-3553-4de2-b619-8c609075b29b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>ng-class</name>
+      <name>aria-controls</name>
       <type>Main</type>
-      <value>{disabled: vm.showLoader}</value>
-      <webElementGuid>ddf0620c-f27f-449e-ad58-f0b15385d4f0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ng-if</name>
-      <type>Main</type>
-      <value>vm.showSaveButton</value>
-      <webElementGuid>89f77b09-4ec4-436a-9197-99749e17df06</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ng-disabled</name>
-      <type>Main</type>
-      <value>vm.disableSaveButton</value>
-      <webElementGuid>5f517797-9f57-4439-8e5a-ced9b8e72abb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ohrm-save-form</name>
-      <type>Main</type>
-      <value>vm.save(oxdModalForm);</value>
-      <webElementGuid>e62e3079-ebe0-4524-b441-6e3961ca2c1a</webElementGuid>
+      <value>P518610810</value>
+      <webElementGuid>e5180f3e-7b97-416b-8e5e-b50533cc52fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Next</value>
-      <webElementGuid>274a9284-c676-4c65-b296-d985e34d52f2</webElementGuid>
+      <value>Close</value>
+      <webElementGuid>2bdd70be-2b44-4645-81e0-91bbd99c2a13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;modal-save-button&quot;)</value>
-      <webElementGuid>58dfa71f-3645-4804-be5e-904a735e0e81</webElementGuid>
+      <value>id(&quot;P518610810_root&quot;)/div[@class=&quot;picker__holder&quot;]/div[@class=&quot;picker__frame&quot;]/div[@class=&quot;picker__wrap&quot;]/div[@class=&quot;picker__box&quot;]/div[@class=&quot;picker__footer&quot;]/button[@class=&quot;btn-flat picker__close&quot;]</value>
+      <webElementGuid>150dae86-5e86-430b-ad9e-b5897c971811</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='modal-save-button']</value>
-      <webElementGuid>a10324e1-9743-441b-a6a8-a24fce3e9728</webElementGuid>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>c9a1bc8e-f264-4b25-ade7-7c7b1e9ea64a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='modal-holder']/div/div/div/div[3]/button[2]</value>
-      <webElementGuid>935e37ca-4e91-450d-aa64-a3c365e07259</webElementGuid>
+      <value>//div[@id='P518610810_root']/div/div/div/div/div[3]/button[3]</value>
+      <webElementGuid>ad6b67e8-fa7f-41a8-8f97-df0f55262f4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::button[1]</value>
-      <webElementGuid>f10def9e-bc8a-4bc8-ba1a-267f832915d4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/following::button[1]</value>
+      <webElementGuid>aa2b6406-fae6-45e1-9c04-d4a6b1c53748</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='* Required'])[1]/following::button[2]</value>
-      <webElementGuid>02f43834-96e8-4bfb-8370-e6a44cb8f9e6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/following::button[2]</value>
+      <webElementGuid>409596b6-1d72-4304-899e-8b9dd342ae69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keyboard Shortcuts:'])[1]/preceding::button[1]</value>
-      <webElementGuid>14b60c9b-099a-4755-bba8-7bed336e4c70</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='date_range'])[1]/preceding::button[1]</value>
+      <webElementGuid>fc7e2863-5cc1-4c89-aad4-3a491c1cd695</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='?'])[1]/preceding::button[1]</value>
-      <webElementGuid>8e1be663-0056-40d6-aa53-a768fd7f3f0b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expected format: yyyy-mm-dd'])[1]/preceding::button[1]</value>
+      <webElementGuid>fa5e789b-e474-4a22-b570-d0092fa64a8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
-      <webElementGuid>8841426e-aeab-48bb-8706-22a1af621a2b</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Close']/parent::*</value>
+      <webElementGuid>95679788-5ddb-4380-bd50-5e767ad7f404</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button[2]</value>
-      <webElementGuid>090ed7d2-9831-4841-80e5-cf9aadb867b7</webElementGuid>
+      <value>//button[3]</value>
+      <webElementGuid>c41cb24e-e7d6-4145-9e67-5d5565bd4b4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'modal-save-button' and (text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>f8703e30-0aca-4c90-b0a7-53946fdb1cf5</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Close' or . = 'Close')]</value>
+      <webElementGuid>b75382be-9f8b-493d-94ba-e7323e8e796f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

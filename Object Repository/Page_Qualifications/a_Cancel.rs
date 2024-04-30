@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c9b2dd45-ac5a-4979-9523-6e0a3cbea3ee</webElementGuid>
+      <webElementGuid>aac1c47f-0600-4226-8530-8b6ee3870cc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>modal.cancel()</value>
-      <webElementGuid>f14b4be2-684b-45b6-8067-2417f27f5d83</webElementGuid>
+      <webElementGuid>7a77129b-312f-4cbc-a6ff-cbb3c58f07b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>modal-action modal-close waves-effect waves-green btn</value>
-      <webElementGuid>2fa13ef3-35bd-4dd4-801e-acc353a2bd73</webElementGuid>
+      <webElementGuid>2f2c5b3d-9c5e-4542-826c-04f4e3511009</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,15 +53,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Cancel</value>
-      <webElementGuid>2945a19c-6243-42d3-9913-e1f2c2cc19ec</webElementGuid>
+      <webElementGuid>e5e2aab9-459e-435d-996e-87f98b75c9e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;modal1&quot;)/form[@class=&quot;ng-valid-duplication-languages ng-valid-schema-form ng-submitted ng-dirty ng-invalid ng-invalid-tv4-302&quot;]/div[@class=&quot;modal-footer&quot;]/a[@class=&quot;modal-action modal-close waves-effect waves-green btn&quot;]</value>
-      <webElementGuid>25f0e825-8da5-4367-961b-0da2089237fb</webElementGuid>
+      <value>id(&quot;modal1&quot;)/form[@class=&quot;ng-dirty ng-valid-parse ng-invalid ng-invalid-duplication-languages ng-invalid-schema-form ng-invalid-tv4-302&quot;]/div[@class=&quot;modal-footer&quot;]/a[@class=&quot;modal-action modal-close waves-effect waves-green btn&quot;]</value>
+      <webElementGuid>68c1b32d-4ea9-4153-872c-06a2e62e9c4b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modal1']/form/div[2]/a[2]</value>
-      <webElementGuid>27be87ea-c694-4c59-82a4-b082bbca5442</webElementGuid>
+      <webElementGuid>2af665d2-780e-477b-9307-a6388da1e10c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Cancel')])[2]</value>
-      <webElementGuid>dc0ff5b6-04b4-4680-9707-2a852deec1d7</webElementGuid>
+      <webElementGuid>4c98f112-70ae-4bc1-b30a-924439330ad6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::a[1]</value>
-      <webElementGuid>4af1cdda-30f6-4aa5-8b4c-952e965d230e</webElementGuid>
+      <webElementGuid>d7403897-9ae9-41ed-88df-5a9eb73ee1b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::a[2]</value>
-      <webElementGuid>bf4ba2d2-5429-4927-aaac-52d5ff311239</webElementGuid>
+      <webElementGuid>9de0e98c-44d7-4a8f-85cb-7727517fe9e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '')])[83]</value>
-      <webElementGuid>3d38ecbb-c140-4f92-baa0-107ed976a58b</webElementGuid>
+      <webElementGuid>15572365-df1d-419a-b3ab-579ceb2fc672</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a[2]</value>
-      <webElementGuid>c9f09754-0aae-4069-b809-b782d24577d4</webElementGuid>
+      <webElementGuid>da237f7f-d022-42d6-a502-b8570f47a513</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Cancel' or . = 'Cancel')]</value>
-      <webElementGuid>734c9727-a26e-45df-908b-ca5d2a4e8ee7</webElementGuid>
+      <webElementGuid>9fd8b9cf-cea0-4a92-99c9-a33af83e44bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Quality assurance (QA)</name>
+   <name>span_Assistant Director-Regional Sales</name>
    <tag></tag>
-   <elementGuidId>2f5f5aba-850a-4e95-bcc2-a8baa1f69dbe</elementGuidId>
+   <elementGuidId>f0d75442-59cf-4e4e-8bf2-fac844b9feef</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='bs-select-5-2']/span</value>
+         <value>//a[@id='bs-select-8-3']/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#bs-select-5-2 > span.text</value>
+         <value>#bs-select-8-3 > span.text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#bs-select-5-2</value>
+         <value>#bs-select-8-3</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>6fb312d8-6ba4-4c1f-bcb1-d673116b90b2</webElementGuid>
+      <webElementGuid>15ac8327-fa88-45b5-975a-2cb2ebebf92e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,86 +37,78 @@
       <name>class</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d3c87c2c-eccd-48f0-8902-e056776b562a</webElementGuid>
+      <webElementGuid>e5bb2202-2c15-4451-9cce-a81d748bcbcc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Quality assurance (QA)</value>
-      <webElementGuid>dafcba2d-13be-488e-b273-229abd5d8ef7</webElementGuid>
+      <value>Assistant Director-Regional Sales</value>
+      <webElementGuid>7be5ae57-4fad-466c-870e-7256c0884a65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;bs-select-5-2&quot;)/span[@class=&quot;text&quot;]</value>
-      <webElementGuid>72afb580-eae2-4198-94d8-cef4d4fed2d3</webElementGuid>
+      <value>id(&quot;bs-select-8-3&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>7c2fb49a-2d3a-4605-9bbc-85b20d36c0c7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//a[@id='bs-select-5-2']/span</value>
-      <webElementGuid>124801c7-1350-4902-b23d-59406116703a</webElementGuid>
+      <value>//a[@id='bs-select-8-3']/span</value>
+      <webElementGuid>77df88c7-79f7-4b5a-ab9e-cd6181a18130</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Architecture Team'])[2]/following::span[1]</value>
-      <webElementGuid>f3c2c34d-fe92-4792-a895-a3a5d2d04a49</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assistant Director-Digital Marketing'])[2]/following::span[1]</value>
+      <webElementGuid>b4c20d4e-e77a-43ad-9e67-c1bb4c149362</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[11]/following::span[2]</value>
-      <webElementGuid>29f1ecb5-6480-47c6-acbe-8700684a7a60</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Art Director'])[2]/following::span[2]</value>
+      <webElementGuid>2c688860-9414-43cb-a1d3-820e615a2519</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Engineering'])[2]/preceding::span[1]</value>
-      <webElementGuid>44eaa210-fa47-41a6-87ac-1477a23fa26e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assistant Manager - HR'])[2]/preceding::span[1]</value>
+      <webElementGuid>1b691258-b144-4a57-8d56-b35c675c7038</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance'])[2]/preceding::span[2]</value>
-      <webElementGuid>35ad33c5-1217-45a1-9da3-8eebec23065a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Associate Support Engineer'])[2]/preceding::span[2]</value>
+      <webElementGuid>acfb32ce-cde3-4cce-b930-629d71189436</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[8]/div/div/div/div/ul/li[3]/a/span</value>
-      <webElementGuid>3d1e7c9b-1b2b-44a2-9171-94fb3987f35f</webElementGuid>
+      <value>//div[3]/div/div/div/div/ul/li[4]/a/span</value>
+      <webElementGuid>c838d7b3-5654-4f72-a3a8-66eb92c387e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Quality assurance (QA)' or . = 'Quality assurance (QA)')]</value>
-      <webElementGuid>5d9668e0-3c85-4469-9756-e07d1510efa6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[9]/following::span[2]</value>
-      <webElementGuid>fdf40748-7bec-45e2-a1f0-07ffd53280bb</webElementGuid>
+      <value>//span[(text() = 'Assistant Director-Regional Sales' or . = 'Assistant Director-Regional Sales')]</value>
+      <webElementGuid>d4f7e3f2-dfab-4376-862c-2ecd1836d3db</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

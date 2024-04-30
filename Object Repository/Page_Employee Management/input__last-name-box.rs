@@ -6,12 +6,12 @@
    <elementGuidId>09fa28b8-4eb2-4b69-8c32-9b1c2189fa2e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#last-name-box</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='last-name-box']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#last-name-box</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d1ae16b2-91b6-49ed-8d6b-55de5e3202ea</webElementGuid>
+      <webElementGuid>a486397a-592b-4617-bab5-ebcf27ee3d33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control ng-pristine ng-untouched ng-valid ng-empty ng-not-empty-add ng-pristine-remove ng-dirty-add ng-valid-parse-add ng-animate ng-empty-remove</value>
-      <webElementGuid>9ee815d8-28e5-4172-b5c9-1cbe0040cb09</webElementGuid>
+      <webElementGuid>9852a2d0-94a1-4c40-8fde-766722bf6160</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>last-name-box</value>
-      <webElementGuid>3879d693-5dd4-4d89-b1d4-bf9350d93825</webElementGuid>
+      <webElementGuid>2925e69a-60b2-4c14-b748-154e2b7e058c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Last Name</value>
-      <webElementGuid>56adc2bf-a654-4a52-a558-18a78dcc2c59</webElementGuid>
+      <webElementGuid>b5a9f278-9b32-4482-b7fc-0fa8496839aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>e7740444-2d07-479b-84b6-130974f4ec50</webElementGuid>
+      <webElementGuid>f35aa498-7bdc-4e2e-becd-561e5770744c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>ng-disabled</name>
       <type>Main</type>
       <value>usedForm.readonly</value>
-      <webElementGuid>7ee8f86c-0642-4165-aa0d-a32b6d98c862</webElementGuid>
+      <webElementGuid>ebed4205-74f1-4d55-894b-688c0fb117fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>ngModel.lastName</value>
-      <webElementGuid>2c39c8d9-3107-422f-892f-a7ee22b6c068</webElementGuid>
+      <webElementGuid>bbb1cdcf-7711-4f71-8b2f-438fb2ae2486</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>data-ng-animate</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>bb852317-d452-48f1-833c-dc4487927e78</webElementGuid>
+      <webElementGuid>be3a8ac9-020c-4228-9707-9c4e0b85defa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;last-name-box&quot;)</value>
-      <webElementGuid>356a7abb-f2d2-4230-88f5-1d44f995bb1c</webElementGuid>
+      <webElementGuid>900ded02-1fbf-4b05-af5b-bbb7a23af936</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='last-name-box']</value>
-      <webElementGuid>0e8e022e-d440-499b-9dda-eb6692e123a8</webElementGuid>
+      <webElementGuid>94c55dfe-5283-4e4d-a059-4dacf2daad87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modal-holder']/div/div/div/div[2]/form/oxd-decorator/div/div[2]/div/div/div/div/div/oxd-employee-name-input/div/input[3]</value>
-      <webElementGuid>6ad58e43-2d47-4b3b-a35a-f792466baad8</webElementGuid>
+      <webElementGuid>4644f514-bec1-4f27-a392-dfca3ec774c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[3]</value>
-      <webElementGuid>430aea4f-dda0-4c2b-a9e1-3016c875008a</webElementGuid>
+      <webElementGuid>830aecb0-8226-423d-8ae5-4691cb9c7117</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'last-name-box' and @placeholder = 'Last Name' and @type = 'text']</value>
-      <webElementGuid>c700d1fb-2a56-4cd3-98c9-9a196ce6cec8</webElementGuid>
+      <webElementGuid>8e5365c9-ef76-474c-a232-f4e89303160e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
