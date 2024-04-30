@@ -7,18 +7,18 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>sub-menu-container.level-1-sub-menu.opened > div.sub-menu-container > div.sub-menu-item > a.sub-menu-item-link.truncate</value>
+         <value>#top_level_menu_item_menu_item_131 > a.top-level-menu-item</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='top-ribbon-menu']/div[3]/top-level-menu-item/div/sub-menu-container/div/div/a</value>
+         <value>//div[@id='top_level_menu_item_menu_item_131']/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;My Info&quot;i] >> nth=1</value>
+         <value>internal:role=link[name=&quot;My Info&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9bc3c25d-cfe4-4382-8418-9dcbfc71619f</webElementGuid>
+      <webElementGuid>f00aa79c-a047-4c0d-82ec-16146fc2cd96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ng-if</name>
       <type>Main</type>
-      <value>!!menu.uiSref &amp;&amp; maxLevels > 0</value>
-      <webElementGuid>8723eaab-c8fc-4430-b8ed-37f0fd62a99a</webElementGuid>
+      <value>!!sref &amp;&amp; !menuTooltip</value>
+      <webElementGuid>74babe37-4876-4d79-843a-b1d3b045d759</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,8 +60,8 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>sub-menu-item-link truncate</value>
-      <webElementGuid>eff0d7f5-191d-494e-8a3a-cab78a1bd7b3</webElementGuid>
+      <value>top-level-menu-item</value>
+      <webElementGuid>11c76f4c-5720-4575-8c29-6bf10b1cbfd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>ui-sref</name>
       <type>Main</type>
       <value>pim.my_info</value>
-      <webElementGuid>89bb089e-9f5c-46be-86fa-5b087b12dfc2</webElementGuid>
+      <webElementGuid>ecd76bf7-bab7-417d-b964-f817ea938a66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>ui-sref-active</name>
       <type>Main</type>
       <value>active</value>
-      <webElementGuid>8b173a80-1a2a-45c4-9d4b-091866c60f8e</webElementGuid>
+      <webElementGuid>8a154172-243a-49c3-85ce-e84e92f5718a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,8 +92,8 @@
       <matchCondition>equals</matchCondition>
       <name>data-automation-id</name>
       <type>Main</type>
-      <value>more_menu_child_menu_pim_viewMyDetails</value>
-      <webElementGuid>eba28264-afa9-4287-98e5-1448275a3d26</webElementGuid>
+      <value>menu_pim_viewMyDetails</value>
+      <webElementGuid>a75633b1-84af-49b2-960d-58901807c782</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>85809fcf-1fe4-4edc-bb65-5d62a5e8451a</webElementGuid>
+      <webElementGuid>c607e127-b71d-4b1d-88f5-3a1204f2680d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -109,26 +109,114 @@
       <name>href</name>
       <type>Main</type>
       <value>#/pim/my_info</value>
-      <webElementGuid>5c5cd055-befd-40f0-9f88-30b0fd128ae8</webElementGuid>
+      <webElementGuid>1fc43666-df98-4a20-b449-515cbbab7a85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> My Info </value>
-      <webElementGuid>063f47c8-af66-4a12-bb92-fa608d7d2cd2</webElementGuid>
+      <value>My Info  </value>
+      <webElementGuid>15fbe4e3-2c1d-447d-bd43-f99c16d8c232</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;top-ribbon-menu&quot;)/div[@class=&quot;top-ribbon-menu-more-items&quot;]/top-level-menu-item[1]/div[@class=&quot;top-level-menu-item-container&quot;]/sub-menu-container[@class=&quot;level-1-sub-menu opened&quot;]/div[@class=&quot;sub-menu-container&quot;]/div[@class=&quot;sub-menu-item&quot;]/a[@class=&quot;sub-menu-item-link truncate&quot;]</value>
-      <webElementGuid>9d4cb430-25d9-4f10-b040-09c5fb58a89d</webElementGuid>
+      <value>id(&quot;top_level_menu_item_menu_item_131&quot;)/a[@class=&quot;top-level-menu-item&quot;]</value>
+      <webElementGuid>af0fdeb4-860a-4cbe-91a5-7cddd1b5e251</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>toggleShowSubmenu()</value>
+      <webElementGuid>f64fc362-ef97-4f35-a42e-90b12565a702</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top_level_menu_item_menu_item_131']/a</value>
+      <webElementGuid>dfbb50e7-f84d-4f3b-9073-f2ad962405d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Info')]</value>
+      <webElementGuid>4a26536b-8ed3-468a-b60f-ff58f3749fd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee List'])[1]/following::a[1]</value>
+      <webElementGuid>f6d9b528-6589-40ba-8c91-bcb4b93c65d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='oxd_home_menu'])[1]/following::a[2]</value>
+      <webElementGuid>90d735a4-1a83-41cc-a5a4-0e82a078861e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Directory'])[1]/preceding::a[1]</value>
+      <webElementGuid>34e580be-7796-4759-9202-a7c276fd52b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buzz'])[1]/preceding::a[2]</value>
+      <webElementGuid>5b1685f8-188a-426f-9677-dbeae4345105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Info']/parent::*</value>
+      <webElementGuid>e18cc63d-1859-4923-8f3b-f222c9f5d5c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#/pim/my_info')])[2]</value>
+      <webElementGuid>6591e626-4e12-4da3-821f-96aeea8b70c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//top-level-menu-item[2]/div/a</value>
+      <webElementGuid>ebd613ec-45bc-4723-86ad-8246e6ef8039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/pim/my_info' and (text() = 'My Info  ' or . = 'My Info  ')]</value>
+      <webElementGuid>436fb8d7-89ac-4b86-96da-7e574144164f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
