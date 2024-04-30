@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_More  more_vert</name>
+   <tag></tag>
+   <elementGuidId>058b23ed-da3f-457f-978b-b3dac5d44913</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.more-menu > top-level-menu-item > div.top-level-menu-item-container > a.top-level-menu-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='topbar-ribbon']/div[2]/ui-view/div/div[2]/top-level-menu-item/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;More more_vert&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5054c65d-77bd-4fdb-b697-88edd37718f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>!sref &amp;&amp; !menuTooltip</value>
+      <webElementGuid>48b82a4d-d646-4b5f-9ecf-1b482ba9cb71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-attr-href</name>
+      <type>Main</type>
+      <value>{{href}}</value>
+      <webElementGuid>0602c4b3-de55-46d8-9852-67a12d86c2be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>top-level-menu-item </value>
+      <webElementGuid>92618ffa-7be6-489a-bd8a-cb49d59f3138</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-attr-target</name>
+      <type>Main</type>
+      <value>{{target}}</value>
+      <webElementGuid>3fd34536-f4f0-4fdc-b513-01f80aaaf9b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>toggleShowSubmenu()</value>
+      <webElementGuid>ee6eab4c-0765-4f09-b370-f0b4a9014b4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation-id</name>
+      <type>Main</type>
+      <value>menu_top_more</value>
+      <webElementGuid>f3bcd760-c817-4735-9b7b-6cee32c25782</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>479778f2-6333-4162-b0bb-285068c05948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>More  more_vert</value>
+      <webElementGuid>ffce737a-14b8-4843-bce9-4bd625400e68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topbar-ribbon&quot;)/div[@class=&quot;custom-top-ribbon&quot;]/ui-view[1]/div[@class=&quot;employee-profile-custom-top-ribbon custom-ribbon-with-menu-and-more-menu more-menu-with-vertical-scrollbar&quot;]/div[@class=&quot;more-menu&quot;]/top-level-menu-item[1]/div[@class=&quot;top-level-menu-item-container&quot;]/a[@class=&quot;top-level-menu-item&quot;]</value>
+      <webElementGuid>10ea6c8c-8282-4810-a9e1-1ccdbe741996</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='topbar-ribbon']/div[2]/ui-view/div/div[2]/top-level-menu-item/div/a</value>
+      <webElementGuid>dce547f3-a6db-467b-88c2-bbfe296927f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Technical Skills'])[1]/following::a[1]</value>
+      <webElementGuid>53f705a3-d6d3-40b9-96b6-02470210f199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Benefits Information'])[1]/following::a[2]</value>
+      <webElementGuid>8eb8a177-dce5-4728-bff7-675f1ee2c5ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Details'])[2]/preceding::a[1]</value>
+      <webElementGuid>d3136927-2a23-4bf6-a31d-a40daf2ad311</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/top-level-menu-item/div/a</value>
+      <webElementGuid>1ebdcfc2-06f3-4c44-9563-727c192074bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'More  more_vert' or . = 'More  more_vert')]</value>
+      <webElementGuid>6b423b94-67e5-40be-81d6-1c8a47c78b5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

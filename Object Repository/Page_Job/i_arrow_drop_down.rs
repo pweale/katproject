@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_arrow_drop_down</name>
+   <tag></tag>
+   <elementGuidId>3e047d41-ea99-4032-952a-a57e3d678d1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='employement_details_tab']/form/div/oxd-decorator/div/div[3]/div/div[2]/div/button/i[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(3) > .input-group-append > .btn >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6ce9a1d0-8696-48e6-a917-c8e18a466f04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>096f2481-193e-48ad-90fc-978cc4b53bd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>arrow_drop_down</value>
+      <webElementGuid>bf9f8e9b-e240-4900-9e99-ae096d8da475</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;employement_details_tab&quot;)/form[@class=&quot;with-standard-section-attached ng-valid ng-valid-schema-form ng-valid-pattern ng-valid-display-input-validity ng-valid-date-range ng-valid-maxlength ng-dirty ng-valid-date-validator ng-valid-date&quot;]/div[1]/oxd-decorator[1]/div[@class=&quot;form-row&quot;]/div[@class=&quot;form-group col-4&quot;]/div[@class=&quot;input-group form-select&quot;]/div[@class=&quot;input-group-append-container&quot;]/div[@class=&quot;input-group-append&quot;]/button[@class=&quot;btn&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>03c17fc2-e729-4548-a07a-563023c029ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='employement_details_tab']/form/div/oxd-decorator/div/div[3]/div/div[2]/div/button/i[2]</value>
+      <webElementGuid>057516e5-c187-49aa-b491-ac0176e68cf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vice President of Learning and Development'])[2]/following::i[2]</value>
+      <webElementGuid>21ccbcaf-3471-401d-a964-ce0aa67ac3b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vice President of Engineering'])[2]/following::i[2]</value>
+      <webElementGuid>bb139bc7-a932-4881-82b0-897cd702c117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employment Status'])[1]/preceding::i[1]</value>
+      <webElementGuid>226c53d7-b103-41c4-87f0-24014be29049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[5]/preceding::i[1]</value>
+      <webElementGuid>7e30e25d-9ce6-499d-a6c7-ab4c657175dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i[2]</value>
+      <webElementGuid>c9f11097-f868-4cc9-953f-6b7e03db1198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'arrow_drop_down' or . = 'arrow_drop_down')]</value>
+      <webElementGuid>e24b1b5c-8471-4770-8f51-bab37e0bd647</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

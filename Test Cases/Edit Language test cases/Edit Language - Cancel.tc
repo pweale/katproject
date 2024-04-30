@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit Language - Cancel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed13757a-1125-4c11-83e1-5b8e9d032e9e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f0adac7d-9633-4511-aad0-8f66d0f74372</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>79884806-5e9e-457b-abea-7e819683fa03</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bde07e79-1d6b-46eb-85e1-6fa68bcc1979</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f0adac7d-9633-4511-aad0-8f66d0f74372</id>
+      <masked>false</masked>
+      <name>username1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>79884806-5e9e-457b-abea-7e819683fa03</id>
+      <masked>false</masked>
+      <name>password1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bde07e79-1d6b-46eb-85e1-6fa68bcc1979</id>
+      <masked>false</masked>
+      <name>Language</name>
+   </variable>
+</TestCaseEntity>

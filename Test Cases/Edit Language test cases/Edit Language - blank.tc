@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit Language - blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d2e24f8-badc-4260-9ea7-02ea7eafa785</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>cdd93590-52bd-4d8c-813f-228c7878f143</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/binding</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d060a4d9-6965-40ca-a688-63475d5e0116</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1f04b9a5-1c0a-46b2-a176-6cce6eac36d3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e1cdee9a-acd9-4031-8d00-26d03650e558</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d060a4d9-6965-40ca-a688-63475d5e0116</id>
+      <masked>false</masked>
+      <name>username1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1f04b9a5-1c0a-46b2-a176-6cce6eac36d3</id>
+      <masked>false</masked>
+      <name>password1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e1cdee9a-acd9-4031-8d00-26d03650e558</id>
+      <masked>false</masked>
+      <name>Languagenew</name>
+   </variable>
+</TestCaseEntity>

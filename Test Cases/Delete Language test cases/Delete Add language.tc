@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Add language</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba0e85ec-a996-48bd-a16a-6accead3f011</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ed34562a-f583-4596-a7b8-0b18db8c8afb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e9352783-1833-420a-aecc-0af24a16faab</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7c5f43a8-6979-46dc-960c-69c9133004f1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ed34562a-f583-4596-a7b8-0b18db8c8afb</id>
+      <masked>false</masked>
+      <name>username2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e9352783-1833-420a-aecc-0af24a16faab</id>
+      <masked>false</masked>
+      <name>password2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7c5f43a8-6979-46dc-960c-69c9133004f1</id>
+      <masked>false</masked>
+      <name>languageone</name>
+   </variable>
+</TestCaseEntity>

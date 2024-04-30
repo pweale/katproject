@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_date_range</name>
+   <tag></tag>
+   <elementGuidId>c3487782-bbcb-4297-8baf-b5f9497299e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.material-icons.action-icon.date-picker-open-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='pimPersonalDetailsForm']/materializecss-decorator[4]/div/sf-decorator/div/span/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>sf-decorator >> internal:has-text=&quot;Date of Birth MondayApr292024JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptember&quot;i >> i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>92a2b07d-ee62-485f-9ce6-12b4ad31cc0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons action-icon date-picker-open-icon</value>
+      <webElementGuid>eb4c588e-1bfe-4740-83bd-01f98956bf68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{disabled: form.readonly}</value>
+      <webElementGuid>61e20a74-f0a4-4f94-8d02-b86b347696da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>date_range</value>
+      <webElementGuid>1ad1af01-64f7-4eda-b12c-92ebbd207ecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pimPersonalDetailsForm&quot;)/materializecss-decorator[4]/div[@class=&quot;schema-form-section row&quot;]/sf-decorator[1]/div[@class=&quot;input-field col s12 m12 l4 ng-valid-pattern ng-valid-display-input-validity ng-valid-schema-form ng-valid-date-range&quot;]/span[@class=&quot;hidden-date-widget&quot;]/span[1]/i[@class=&quot;material-icons action-icon date-picker-open-icon&quot;]</value>
+      <webElementGuid>0ebc421c-0afc-4f8b-95ff-701320f068e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='pimPersonalDetailsForm']/materializecss-decorator[4]/div/sf-decorator/div/span/span/i</value>
+      <webElementGuid>c5f4a4fb-9689-48f1-aa56-45a42dd36d7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::i[1]</value>
+      <webElementGuid>c060c04f-c9ba-4e97-9de5-ded3af2064cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/following::i[1]</value>
+      <webElementGuid>16a1c0b6-6008-4ece-84fe-acf6ab7cf29c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expected format: yyyy-mm-dd'])[1]/preceding::i[1]</value>
+      <webElementGuid>c9e10dbe-0470-4920-b006-8b5de6cd572b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required'])[1]/preceding::i[1]</value>
+      <webElementGuid>b1a427d5-5982-4e47-aebf-853927d29b8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='date_range']/parent::*</value>
+      <webElementGuid>15773c50-b5f9-465b-b560-83eddd22ae2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>229f172a-b090-4a83-a571-7074b19bb90d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'date_range' or . = 'date_range')]</value>
+      <webElementGuid>d3c0bec3-e8d5-4827-9e6e-f2c324c94815</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

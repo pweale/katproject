@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_License   arrow_upward</name>
+   <tag></tag>
+   <elementGuidId>6a0000d2-09a6-493f-9141-afef40de4f38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th.row-name.sortable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='licenseDiv']/crud-panel/div/div/list/table/thead/tr/th[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;License arrow_upward&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>e2534183-5156-4ff4-8537-7b1a49ce4234</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>listField in listData.listFields</value>
+      <webElementGuid>b6b5c159-e2cf-4e3b-9690-4bf32ce1cf9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-field</name>
+      <type>Main</type>
+      <value>license</value>
+      <webElementGuid>823d9d3a-8241-4874-9fc7-b80d34bfa663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>204c077a-5206-4433-b3f9-2a3ae3e9ebef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>list.fetchData(listField.name, listField.sortAction, listField.sortable, listData.pagination)</value>
+      <webElementGuid>0cd89d8d-8f1e-415e-bcc8-c7485fa91d25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row-name sortable</value>
+      <webElementGuid>089c20f5-aeb6-4e08-84a7-2728e93ec610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{sortable: listField.sortable}</value>
+      <webElementGuid>2b02e37a-0c73-4110-8c89-50d81c644a8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>(listField.hideField==true?false:true) &amp;&amp; (listField.hideHeader==true?false:true)</value>
+      <webElementGuid>b77587ea-a1d4-4a71-84b1-7b71c0f2b337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>License   arrow_upward</value>
+      <webElementGuid>68cdc5b0-df74-4208-ac15-2bc8354a9e18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;licenseDiv&quot;)/crud-panel[1]/div[@class=&quot;form-div&quot;]/div[@class=&quot;list-container&quot;]/list[1]/table[@class=&quot;highlight bordered&quot;]/thead[1]/tr[1]/th[@class=&quot;row-name sortable&quot;]</value>
+      <webElementGuid>498f75c1-b4c3-49cd-8db5-4eab6b85fa35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='licenseDiv']/crud-panel/div/div/list/table/thead/tr/th[2]</value>
+      <webElementGuid>6721e601-ed5c-45ee-82c3-e23551858438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[1]/following::th[1]</value>
+      <webElementGuid>3c6cffab-6dd8-4715-9bd3-2f3fd7ef4a74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='more_horiz'])[1]/following::th[1]</value>
+      <webElementGuid>71f9e709-be81-4782-9891-ee949471ae85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Addnewone'])[1]/preceding::th[2]</value>
+      <webElementGuid>654bb9f8-6466-49f4-8497-29e7eea7ac46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='License']/parent::*</value>
+      <webElementGuid>7aa85e40-30ff-426e-8a4b-1e350d9286f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[2]</value>
+      <webElementGuid>3bd2dfa7-9c3a-46b9-9763-afdad3cff177</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'License   arrow_upward' or . = 'License   arrow_upward')]</value>
+      <webElementGuid>51494b6c-ae89-481f-9640-9454f7faf652</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

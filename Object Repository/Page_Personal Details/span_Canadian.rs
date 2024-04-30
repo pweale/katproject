@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Canadian</name>
+   <tag></tag>
+   <elementGuidId>1f319a9c-0361-4f25-9e3d-4cdec3983ae9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select-options-245d1bc2-2763-d5e6-d810-79f54a555eec > li:nth-of-type(36) > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='select-options-245d1bc2-2763-d5e6-d810-79f54a555eec']/li[36]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> internal:has-text=&quot;Canadian&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4d2a0cc1-0879-49fe-86c1-74fee55e88fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Canadian</value>
+      <webElementGuid>5fe8871f-49d6-4c6c-a94c-08353e5ce885</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select-options-245d1bc2-2763-d5e6-d810-79f54a555eec&quot;)/li[36]/span[1]</value>
+      <webElementGuid>2d4ea62e-62ae-4b62-b712-59cace2a59dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select-options-245d1bc2-2763-d5e6-d810-79f54a555eec']/li[36]/span</value>
+      <webElementGuid>94ad316f-4469-4a10-9a91-3e21728b0504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cameroonian'])[1]/following::span[1]</value>
+      <webElementGuid>ef9bd782-ef60-4532-9fcc-c27a136d0f40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cambodian'])[1]/following::span[2]</value>
+      <webElementGuid>737e9102-8cdf-4aba-9508-c0597a084920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cape Verdean'])[1]/preceding::span[1]</value>
+      <webElementGuid>e9a8f75b-b79f-492d-b18b-e5fafb794bc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Central African'])[1]/preceding::span[2]</value>
+      <webElementGuid>8295bf30-906f-48f5-8aa1-4b30ac54b057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Canadian']/parent::*</value>
+      <webElementGuid>ffd81f95-4e44-498a-9c87-3b64cde3e1d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sf-decorator/div/div/ul/li[36]/span</value>
+      <webElementGuid>e2ecbc6b-7321-496e-8947-509a36f81930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Canadian' or . = 'Canadian')]</value>
+      <webElementGuid>41384f00-aa3b-4d18-9de3-d98e3b7410d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

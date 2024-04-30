@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Name  Required field</name>
+   <tag></tag>
+   <elementGuidId>c35e7e7d-1c6a-4c53-b90f-7d240a59f210</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form[name=&quot;licensesModalForm&quot;] > div.modal-content > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal1']/form/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Name* * Required field&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3a56e538-e516-49f1-ac41-72318c0c3b45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sf-schema</name>
+      <type>Main</type>
+      <value>modal.schema</value>
+      <webElementGuid>b5239697-eab7-42fb-b8d5-01715323e7e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sf-form</name>
+      <type>Main</type>
+      <value>modal.form</value>
+      <webElementGuid>20af15bd-4ae6-4907-a80e-c039a78a0566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sf-model</name>
+      <type>Main</type>
+      <value>modal.model</value>
+      <webElementGuid>fffe9d36-15b9-4907-9dfe-58fd2ee6fe60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>extracontroller</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>758c2d3e-ca4b-4e84-aedb-b66dd326ecea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Name* * Required field</value>
+      <webElementGuid>eefc7b26-c907-4df3-b654-e7b513de92d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal1&quot;)/form[@class=&quot;ng-pristine ng-valid ng-valid-duplication-licenses ng-valid-schema-form&quot;]/div[@class=&quot;modal-content&quot;]/div[1]</value>
+      <webElementGuid>2acaae3c-208d-4077-a25f-04839d8c8670</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal1']/form/div/div</value>
+      <webElementGuid>30ceea3f-aedd-4673-b85d-c99462dfb87a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit License'])[1]/following::div[2]</value>
+      <webElementGuid>d9ecf9ef-a880-4250-8f54-5d330ad2c1f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='{{(list.getTDTooltip(TD.tooltip, obj)) | translate}}'])[18]/following::div[4]</value>
+      <webElementGuid>f26bbd13-3c21-452c-b08e-e45b7eaee7e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>80154ac7-4e37-46ee-91b4-f36be895a1b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Name* * Required field' or . = ' Name* * Required field')]</value>
+      <webElementGuid>84b4bc74-8956-4b31-b63f-d21fdd79ccc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add License'])[2]/following::div[2]</value>
+      <webElementGuid>cb2d205d-ee32-4e34-a291-479339270032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add License'])[1]/following::div[4]</value>
+      <webElementGuid>af080d54-c311-474d-9a80-b0778db9b3a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

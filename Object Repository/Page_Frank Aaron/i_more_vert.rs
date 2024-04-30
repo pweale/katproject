@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_more_vert</name>
+   <tag></tag>
+   <elementGuidId>9766bc31-dbc2-4ef2-acb4-d56fe6121d27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.expand-icon.material-icons</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='topbar-ribbon']/div[2]/ui-view/div/div[2]/top-level-menu-item/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;More more_vert&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3375929f-5ff1-4d19-81aa-242bbb7b672f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>children &amp;&amp; expandIcon</value>
+      <webElementGuid>04381048-fbfa-451b-ae57-8042c84615f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>expand-icon material-icons</value>
+      <webElementGuid>7703bf5b-8c8b-4b72-9d1b-8b2d606d10e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>more_vert</value>
+      <webElementGuid>f8a19a36-f60c-4708-a2a4-7977365fc385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topbar-ribbon&quot;)/div[@class=&quot;custom-top-ribbon&quot;]/ui-view[1]/div[@class=&quot;employee-profile-custom-top-ribbon custom-ribbon-with-menu-and-more-menu more-menu-with-vertical-scrollbar&quot;]/div[@class=&quot;more-menu&quot;]/top-level-menu-item[1]/div[@class=&quot;top-level-menu-item-container&quot;]/a[@class=&quot;top-level-menu-item&quot;]/i[@class=&quot;expand-icon material-icons&quot;]</value>
+      <webElementGuid>b0570338-7211-4e6e-84ef-f245c21913bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='topbar-ribbon']/div[2]/ui-view/div/div[2]/top-level-menu-item/div/a/i</value>
+      <webElementGuid>01bf1e36-7407-4aef-8f2e-f0737df11d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Technical Skills'])[1]/following::i[1]</value>
+      <webElementGuid>0fbed8dd-665b-49c2-8671-12a26f6035ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Details'])[2]/preceding::i[1]</value>
+      <webElementGuid>802b4ece-e9bd-407a-b94a-ada804608b6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Details'])[2]/preceding::i[1]</value>
+      <webElementGuid>684c40ae-ffe9-4f40-9af6-6f174c7903fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='more_vert']/parent::*</value>
+      <webElementGuid>e807f311-e0be-4cc5-a012-872c439aa8d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//top-level-menu-item/div/a/i</value>
+      <webElementGuid>a6ca9d5d-ba40-4997-a120-a427edc8698a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'more_vert' or . = 'more_vert')]</value>
+      <webElementGuid>adcfe7ce-174d-4e5d-874b-88a4c8561d49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

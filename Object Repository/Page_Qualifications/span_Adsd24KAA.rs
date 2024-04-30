@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Adsd24KAA</name>
+   <tag></tag>
+   <elementGuidId>0bb8b6b5-a824-4d61-8578-7f271e55e5c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ng-include > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='licenseDiv']/crud-panel/div/div/list/table/tbody/tr/td[2]/ng-include/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Ad$%sd24KAA&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a497fd53-040b-4d23-b689-342cfb5fea43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ad$%sd24KAA</value>
+      <webElementGuid>4cf65233-ffcb-4634-8365-1d7aa3367228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;licenseDiv&quot;)/crud-panel[1]/div[@class=&quot;form-div&quot;]/div[@class=&quot;list-container&quot;]/list[1]/table[@class=&quot;highlight bordered&quot;]/tbody[1]/tr[1]/td[2]/ng-include[1]/span[1]</value>
+      <webElementGuid>342cfc36-cf4e-49cd-9475-1f6eba9b54dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='licenseDiv']/crud-panel/div/div/list/table/tbody/tr/td[2]/ng-include/span</value>
+      <webElementGuid>3065e494-96d6-4753-9d34-a2e6e8ee3555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='arrow_upward'])[1]/following::span[1]</value>
+      <webElementGuid>b5d09103-1be4-4b51-894d-bc85a7e5e6b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ohrm_edit'])[1]/preceding::span[1]</value>
+      <webElementGuid>1b684ecf-455d-4758-8b9a-a2591691ae0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automobile Sales License'])[1]/preceding::span[1]</value>
+      <webElementGuid>65bf549a-c3cc-4403-88b8-b28525f5ed06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ad$%sd24KAA']/parent::*</value>
+      <webElementGuid>822d00dc-c4d8-4a71-a571-2d74ee69c6bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-include/span</value>
+      <webElementGuid>ed5059e5-6996-4d3e-a251-ad266bcc9a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ad$%sd24KAA' or . = 'Ad$%sd24KAA')]</value>
+      <webElementGuid>d31fdf8b-d00a-4ce1-8070-d18dc313558c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
