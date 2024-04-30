@@ -31,11 +31,5 @@ WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_Employe
 
 WebUI.click(findTestObject('Object Repository/Page_Employee Management/img_Supervisor_circle list-photo'))
 
-WebUI.click(findTestObject('Object Repository/Page_Frank Aaron/i_arrow_back'))
-
-WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_More  more_vert'))
-
-WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_My Info'))
-
 WebUI.closeBrowser()
 
