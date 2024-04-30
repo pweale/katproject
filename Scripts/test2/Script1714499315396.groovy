@@ -27,21 +27,9 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_OrangeHRM/input_Lo
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Page_Employee Management/i_more_vert'))
+WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_My Info'))
 
-WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_oxd_menu_left Qualifications'))
+WebUI.click(findTestObject('Object Repository/Page_My Info/a_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Page_Employee Management/i_more_vert'))
-
-WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_Licenses'))
-
-WebUI.click(findTestObject('Object Repository/Page_Qualifications/span_Adsd24KAA'))
-
-WebUI.click(findTestObject('Object Repository/Page_Qualifications/label'))
-
-WebUI.click(findTestObject('Object Repository/Page_Qualifications/i_ohrm_edit'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Qualifications/input_Add License_name'), 'Ad$%sd24K')
-
-WebUI.click(findTestObject('Object Repository/Page_Qualifications/a_Save'))
+WebUI.closeBrowser()
 
