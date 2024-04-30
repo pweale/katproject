@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>ca5f9356-99d7-4848-baf4-e8f594ed2072</webElementGuid>
+      <webElementGuid>904b376d-423f-4628-a241-3e5602c18da4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>circle list-photo</value>
-      <webElementGuid>3d42b4e6-3608-4a4d-aa2e-98569f3912c1</webElementGuid>
+      <webElementGuid>4cfa5ea0-f096-4a19-bcac-80dd5bc5ac48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>!employee.photo</value>
-      <webElementGuid>bbf65d0e-43ed-4be1-b6de-3806b79469ed</webElementGuid>
+      <webElementGuid>61ac00a4-2fd1-4687-b23a-317b92668001</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>ng-src</name>
       <type>Main</type>
       <value>images/default-photo.png</value>
-      <webElementGuid>e3c33625-ddda-4681-851a-93226762cd91</webElementGuid>
+      <webElementGuid>b2557f4e-6332-4106-90fb-874c1ee408c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>src</name>
       <type>Main</type>
       <value>images/default-photo.png</value>
-      <webElementGuid>135bb2d4-9553-4c49-ac55-aa8d0d3c65ae</webElementGuid>
+      <webElementGuid>eb607c96-aba1-46e3-b84d-622dfa800ded</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;employeeListTable&quot;)/tbody[1]/tr[1]/td[1]/a[@class=&quot;table-cell-link&quot;]/img[@class=&quot;circle list-photo&quot;]</value>
-      <webElementGuid>7d2464b0-f4ec-4aba-83ee-2307c24c3603</webElementGuid>
+      <webElementGuid>a843285e-b646-4249-8eb2-cfa72da9d40a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='employeeListTable']/tbody/tr/td/a/img</value>
-      <webElementGuid>1ddc82db-4cfc-49a1-b9b5-f913b30ba061</webElementGuid>
+      <webElementGuid>983949c7-9c9f-48c0-81eb-76f24ec97b57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/a/img</value>
-      <webElementGuid>0a0d1ad4-41a5-4156-9e68-7c2f88e5dced</webElementGuid>
+      <webElementGuid>e31f04b6-e120-4bc6-aa76-371276d466c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'images/default-photo.png']</value>
-      <webElementGuid>9366d9fe-8f51-4cf5-b029-50e39defcb1d</webElementGuid>
+      <webElementGuid>3a188cd3-e86d-4957-ae27-240e490568fb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

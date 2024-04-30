@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.top-ribbon-menu-more-items > top-level-menu-item:nth-of-type(2) > div.top-level-menu-item-container > a.top-level-menu-item</value>
+         <value>div.top-ribbon-menu-more-items > top-level-menu-item > div.top-level-menu-item-container > a.top-level-menu-item</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='top-ribbon-menu']/div[3]/top-level-menu-item[2]/div/a</value>
+         <value>//div[@id='top-ribbon-menu']/div[3]/top-level-menu-item/div/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>343eb48f-fc84-4ad3-b6ab-906ffb2573b2</webElementGuid>
+      <webElementGuid>f7aaa40c-76df-4e0d-95a6-c6e225ad9e08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>!sref &amp;&amp; !menuTooltip</value>
-      <webElementGuid>8b18d3cc-6a5c-491f-9a2a-58bd5534864d</webElementGuid>
+      <webElementGuid>d240aade-4b84-46d6-be1e-b8a6fe98b396</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>ng-attr-href</name>
       <type>Main</type>
       <value>{{href}}</value>
-      <webElementGuid>a10300ae-6431-4ca1-96fc-7bfc68e034b3</webElementGuid>
+      <webElementGuid>f82fe6e2-0741-4ec3-a063-978255799518</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>top-level-menu-item </value>
-      <webElementGuid>5dffd40b-9445-4baf-b623-0b4159906a58</webElementGuid>
+      <webElementGuid>b8317e9b-0740-4fd0-a493-e05038df3762</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>ng-attr-target</name>
       <type>Main</type>
       <value>{{target}}</value>
-      <webElementGuid>e9ccb46d-76b3-49fb-89b5-2ad71e8b62b5</webElementGuid>
+      <webElementGuid>84252ef9-0eca-4400-87a1-dfc812c81f67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>toggleShowSubmenu()</value>
-      <webElementGuid>6a70c3d4-7ed1-4f98-a857-b4cdee6b8c2e</webElementGuid>
+      <webElementGuid>06f293e4-98ff-41d9-874c-246db8358a19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>data-automation-id</name>
       <type>Main</type>
       <value>more_menu_child_menu_top_more</value>
-      <webElementGuid>60808560-594a-4652-91ce-5533687dccc0</webElementGuid>
+      <webElementGuid>3a836e8e-5e88-47ef-9fc8-7f3b03a624a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>ad568f0c-732a-460d-a9dd-75297294aefd</webElementGuid>
+      <webElementGuid>37c14f0d-1eff-4de8-96c2-62bc15985409</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -93,18 +93,66 @@
       <name>text</name>
       <type>Main</type>
       <value>More  more_vert</value>
-      <webElementGuid>5c525e7a-8866-4d50-91ce-71b0651e99c6</webElementGuid>
+      <webElementGuid>e99a34b3-4e4e-4de7-aac6-55eef256d559</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;top-ribbon-menu&quot;)/div[@class=&quot;top-ribbon-menu-more-items&quot;]/top-level-menu-item[2]/div[@class=&quot;top-level-menu-item-container&quot;]/a[@class=&quot;top-level-menu-item&quot;]</value>
-      <webElementGuid>c447fd7d-6d6f-4a88-af5d-26146c4f6574</webElementGuid>
+      <value>id(&quot;top-ribbon-menu&quot;)/div[@class=&quot;top-ribbon-menu-more-items&quot;]/top-level-menu-item[1]/div[@class=&quot;top-level-menu-item-container&quot;]/a[@class=&quot;top-level-menu-item&quot;]</value>
+      <webElementGuid>efd390e7-4a92-4542-b30e-eaa90af5addb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top-ribbon-menu']/div[3]/top-level-menu-item/div/a</value>
+      <webElementGuid>25e32edf-88f6-47b2-903f-fd97d5fdbfd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Candidate Records'])[1]/following::a[1]</value>
+      <webElementGuid>d9739570-7a64-4ebd-a74d-8771e5dd07dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Records'])[1]/following::a[2]</value>
+      <webElementGuid>4dee20cd-3b38-4b76-bd14-c8359ee5e509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Info'])[2]/preceding::a[1]</value>
+      <webElementGuid>7538e994-b02f-4657-8793-2ac94043ea7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/top-level-menu-item/div/a</value>
+      <webElementGuid>eab8c67c-8a47-4001-b9c7-d2caf17dc771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'More  more_vert' or . = 'More  more_vert')]</value>
+      <webElementGuid>88ac6c89-64e0-4296-b9b8-2c4a37ee1aad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -142,13 +190,5 @@
       <type>Main</type>
       <value>//div[3]/top-level-menu-item[2]/div/a</value>
       <webElementGuid>e89e416c-d79b-44a4-9abd-c132ded92fcb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[(text() = 'More  more_vert' or . = 'More  more_vert')]</value>
-      <webElementGuid>3faf553f-ae2a-4c12-9e80-24bb7afe5049</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
