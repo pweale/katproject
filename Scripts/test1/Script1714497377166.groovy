@@ -31,5 +31,3 @@ WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_Employe
 
 WebUI.click(findTestObject('Object Repository/Page_Employee Management/img_Supervisor_circle list-photo'))
 
-WebUI.closeBrowser()
-

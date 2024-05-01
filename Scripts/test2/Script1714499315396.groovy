@@ -31,5 +31,3 @@ WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_My Info
 
 WebUI.click(findTestObject('Object Repository/Page_My Info/a_Profile'))
 
-WebUI.closeBrowser()
-
