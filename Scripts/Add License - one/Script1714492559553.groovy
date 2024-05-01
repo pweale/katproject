@@ -31,15 +31,3 @@ WebUI.click(findTestObject('Object Repository/Page_Employee Management/i_more_ve
 
 WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_oxd_menu_left Qualifications'))
 
-WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_More  more_vert'))
-
-WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_Licenses'))
-
-WebUI.click(findTestObject('Object Repository/Page_Qualifications/i_add'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Qualifications/input_Add License_name'), 'addone')
-
-WebUI.click(findTestObject('Object Repository/Page_Qualifications/a_Save'))
-
-WebUI.closeBrowser()
-

@@ -27,19 +27,3 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_OrangeHRM/input_Lo
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_More  more_vert'))
-
-WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_oxd_menu_left Qualifications'))
-
-WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_More  more_vert'))
-
-WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_Languages'))
-
-WebUI.click(findTestObject('Object Repository/Page_Qualifications/i_add'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Qualifications/input_Add License_name'), 'French')
-
-WebUI.click(findTestObject('Object Repository/Page_Qualifications/a_Save'))
-
-WebUI.click(findTestObject('Object Repository/Page_Qualifications/a_Cancel'))
-
