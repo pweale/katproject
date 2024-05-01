@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>test1</name>
+   <name>newtwo</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>87e8229b-c356-4899-97ce-b6887a937fb6</testSuiteGuid>
+   <testSuiteGuid>e9d5ec0e-472e-4d56-8852-454122f7c023</testSuiteGuid>
    <testCaseLink>
-      <guid>07aa56b9-9274-47c7-afb5-efe4e4d9c735</guid>
+      <guid>29166493-0360-4568-83c0-d5f484916221</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/test1</testCaseId>
+      <testCaseId>Test Cases/Login Spy</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b2f792d8-981f-4af3-b906-fa8e0defa84a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login Spy - incorrect password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
