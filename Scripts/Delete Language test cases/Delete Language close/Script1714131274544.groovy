@@ -27,11 +27,11 @@ WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/input_Login_txtPa
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_More  more_vert'))
+WebUI.click(findTestObject('Object Repository/Page_Employee Management/i_more_vert'))
 
 WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_oxd_menu_left Qualifications'))
 
-WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_More  more_vert'))
+WebUI.click(findTestObject('Object Repository/Page_Employee Management/i_more_vert'))
 
 WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_Languages'))
 
