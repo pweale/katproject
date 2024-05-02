@@ -5,6 +5,15 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>d46180bf-2dc3-452f-a94d-d2bb780be950</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>04643fcc-2efe-443f-a65b-7651ef6e3c4b</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/language delete</testDataId>
+   </testDataLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>

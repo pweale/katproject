@@ -198,13 +198,13 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>bc39d765-e8c9-4c0f-bd5f-06787492e029</guid>
+      <guid>0ffa718d-6082-4711-b030-0950c54d9f63</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Delete Language test cases/Delete multiple languages</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>99e46cf1-0c8c-430b-95e5-f52e37475edf</id>
+         <id>d007882b-afac-4ff6-a279-d07178ba4863</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -213,13 +213,13 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>99e46cf1-0c8c-430b-95e5-f52e37475edf</testDataLinkId>
+         <testDataLinkId>d007882b-afac-4ff6-a279-d07178ba4863</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>username2</value>
          <variableId>782356bc-56e3-42c6-8e6c-a75ce44819f9</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>99e46cf1-0c8c-430b-95e5-f52e37475edf</testDataLinkId>
+         <testDataLinkId>d007882b-afac-4ff6-a279-d07178ba4863</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>password2</value>
          <variableId>8a9c46e0-2815-458a-a3ed-01b9d452d730</variableId>

@@ -7,7 +7,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>f829fa7f-4e5d-4da4-b17c-7b8db5b1fa25</dataFileGUID>
-   <dataSourceUrl>C:\Users\PaulWeale\OneDrive - PQA\Desktop\language delete.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\Users\PaulWeale\Katalon Studio\Mock 9 Katalon\language delete.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
