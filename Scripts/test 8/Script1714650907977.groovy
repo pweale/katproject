@@ -35,13 +35,19 @@ WebUI.click(findTestObject('Object Repository/Page_Employee Management/i_oxd_hom
 
 WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_My Info'))
 
+WebUI.takeScreenshotAsCheckpoint('my info')
+
 WebUI.click(findTestObject('Object Repository/Page_My Info/i_oxd_home_menu'))
 
 WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_Directory'))
 
+WebUI.takeScreenshotAsCheckpoint('directory')
+
 WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_oxd_home_menu'))
 
 WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_Dashboard'))
+
+WebUI.takeScreenshotAsCheckpoint('dashboard')
 
 WebUI.click(findTestObject('Object Repository/Page_Employee Management/i_oxd_home_menu'))
 
