@@ -31,7 +31,7 @@ WebUI.click(findTestObject('Object Repository/Page_Employee Management/i_more_ve
 
 WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_oxd_menu_left Qualifications'))
 
-WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_More  more_vert'))
+WebUI.click(findTestObject('Object Repository/Page_Employee Management/i_more_vert'))
 
 WebUI.click(findTestObject('Object Repository/Page_Employee Management/a_Languages'))
 
